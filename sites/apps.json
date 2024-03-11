@@ -1,0 +1,101 @@
+{
+    "frappe": {
+        "resolution": {
+            "commit_hash": null,
+            "branch": null
+        },
+        "required": [],
+        "idx": 1,
+        "version": "15.10.0"
+    },
+    "hrms": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "6e30318483d580e18fad0c8aa1ff101f1766376b",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 2,
+        "version": "16.0.0-dev"
+    },
+    "erpnext": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "4832175341d63cf85a453bc1b2ba2a0ebe9aabdf",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 3,
+        "version": "16.0.0-dev"
+    },
+    "crm": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "79508843c364313c36ed2fbeb396b22858076d46",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 4,
+        "version": "0.0.1"
+    },
+    "drive": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "3223c86a0d2b3943a784def6722cddc79cbf6297",
+            "branch": "main"
+        },
+        "required": [],
+        "idx": 5,
+        "version": "0.0.1"
+    },
+    "insights": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "f92dd4a3ddf2af02b4f15efffd1288c0e4b5193e",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 6,
+        "version": "1.1.3"
+    },
+    "print_designer": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "82cbaeada8df0a983a005b6a8a01ef4f8e66d271",
+            "branch": "main"
+        },
+        "required": [],
+        "idx": 7,
+        "version": "1.0.0"
+    },
+    "non_profit": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "f5d60f69c796b2c4913c0a91fa0dabea03b0959e",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 8,
+        "version": "0.0.1"
+    },
+    "erpnext_ksa": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "fe0f903338aa7d389e5e34d2012412cb563c8cac",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 9,
+        "version": "0.0.1"
+    },
+    "meeting": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "5718c8823621961e8bb0e2f4277199fe51efe369",
+            "branch": "master"
+        },
+        "required": [],
+        "idx": 10,
+        "version": "0.0.1"
+    }
+}

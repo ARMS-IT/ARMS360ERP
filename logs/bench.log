@@ -1,0 +1,531 @@
+2024-01-23 21:10:53,171 DEBUG cd frappe-bench && python3 -m venv env
+2024-01-23 21:10:56,006 DEBUG cd frappe-bench && /srv/bench/frappe-bench/env/bin/python -m pip install --quiet --upgrade pip
+2024-01-23 21:10:57,970 DEBUG cd frappe-bench && /srv/bench/frappe-bench/env/bin/python -m pip install --quiet wheel
+2024-01-23 21:10:59,421 LOG Getting frappe
+2024-01-23 21:10:59,421 DEBUG cd frappe-bench/apps && git clone https://github.com/frappe/frappe.git --branch version-15 --depth 1 --origin upstream
+2024-01-23 21:11:13,571 LOG Installing frappe
+2024-01-23 21:11:13,571 DEBUG cd /srv/bench/frappe-bench && /srv/bench/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /srv/bench/frappe-bench/apps/frappe 
+2024-01-23 21:11:57,099 DEBUG cd /srv/bench/frappe-bench/apps/frappe && yarn install
+2024-01-23 21:13:48,967 WARNING restart failed: Couldn't find supervisorctl in PATH
+2024-01-23 21:13:48,968 DEBUG cd frappe-bench && bench build
+2024-01-23 21:13:49,065 INFO /usr/local/bin/bench build
+2024-01-23 21:14:13,195 LOG setting up backups
+2024-01-23 21:14:13,203 LOG backups were set up
+2024-01-23 21:14:13,203 INFO Bench frappe-bench initialized
+2024-01-23 21:14:40,694 INFO /usr/local/bin/bench new-site 360.armsit.com
+2024-01-23 21:18:40,319 INFO /usr/local/bin/bench new-site 360.armsit.com
+2024-01-23 21:19:09,587 INFO /usr/local/bin/bench new-site 360.armsit.com
+2024-01-23 21:19:34,900 INFO /usr/local/bin/bench remove-site 360.armsit.com
+2024-01-23 21:19:42,999 INFO /usr/local/bin/bench remove 360.armsit.com
+2024-01-23 21:19:43,003 WARNING /usr/local/bin/bench remove 360.armsit.com executed with exit code 1
+2024-01-23 21:19:51,232 INFO /usr/local/bin/bench remove-site 360.armsit.com
+2024-01-23 21:19:58,392 INFO /usr/local/bin/bench delete-site 360.armsit.com
+2024-01-23 21:20:09,805 INFO /usr/local/bin/bench new-site 360.armsit.com
+2024-01-23 21:20:36,928 INFO /usr/local/bin/bench drop-site 360.armsit.com
+2024-01-23 21:20:48,375 INFO /usr/local/bin/bench drop-site 360.armsit.com --force
+2024-01-23 21:21:04,190 INFO /usr/local/bin/bench drop-site 360.armsit.com --force
+2024-01-23 21:21:18,737 INFO /usr/local/bin/bench new-site 360.armsit.com
+2024-01-23 21:23:14,988 INFO /usr/local/bin/bench start
+2024-01-23 21:23:15,498 INFO /usr/local/bin/bench worker
+2024-01-23 21:23:15,539 INFO /usr/local/bin/bench watch
+2024-01-23 21:23:15,564 INFO /usr/local/bin/bench serve --port 8000
+2024-01-23 21:23:15,599 INFO /usr/local/bin/bench schedule
+2024-01-23 21:24:38,005 INFO /usr/local/bin/bench start
+2024-01-23 21:24:38,514 INFO /usr/local/bin/bench serve --port 8000
+2024-01-23 21:24:38,544 INFO /usr/local/bin/bench schedule
+2024-01-23 21:24:38,569 INFO /usr/local/bin/bench worker
+2024-01-23 21:24:38,640 INFO /usr/local/bin/bench watch
+2024-01-23 21:27:15,152 INFO /usr/local/bin/bench setup production erpnext
+2024-01-23 21:27:15,157 DEBUG sudo /usr/bin/python3 -m pip install ansible
+2024-01-23 21:28:12,387 DEBUG bench setup role fail2ban
+2024-01-23 21:28:12,482 INFO /usr/local/bin/bench setup role fail2ban
+2024-01-23 21:28:31,722 LOG Updated supervisord.conf: 'chmod' changed from '0700                       ; sockef file mode (default 0700)' to '0760'
+2024-01-23 21:28:31,722 LOG Updated supervisord.conf: 'chown' changed from '' to 'erpnext:erpnext'
+2024-01-23 21:28:31,776 DEBUG sudo /usr/sbin/nginx -t
+2024-01-23 21:28:31,794 DEBUG sudo systemctl reload nginx
+2024-01-23 21:30:17,951 INFO /usr/local/bin/bench setup production erpnext
+2024-01-23 21:30:17,957 LOG Updated supervisord.conf: 'chmod' changed from '0700                       ; sockef file mode (default 0700)' to '0760'
+2024-01-23 21:30:17,957 LOG Updated supervisord.conf: 'chown' changed from '' to 'erpnext:erpnext'
+2024-01-23 21:30:30,713 DEBUG /usr/bin/supervisorctl reread
+2024-01-23 21:30:30,892 DEBUG /usr/bin/supervisorctl update
+2024-01-23 21:30:31,103 DEBUG sudo /usr/sbin/nginx -t
+2024-01-23 21:30:31,134 DEBUG sudo systemctl reload nginx
+2024-01-23 21:30:31,692 INFO /usr/local/bin/bench schedule
+2024-01-23 21:30:31,707 INFO /usr/local/bin/bench worker --queue long,default,short
+2024-01-23 21:30:31,723 INFO /usr/local/bin/bench worker --queue short,default
+2024-01-23 21:55:06,542 INFO /usr/local/bin/bench setup lets-encrypt 360.armsit.com
+2024-01-23 21:55:43,479 INFO /usr/local/bin/bench use 360.armsit.com
+2024-01-23 21:56:23,318 INFO /usr/local/bin/bench config dns_multitenant on
+2024-01-23 21:56:29,653 INFO /usr/local/bin/bench setup nginx
+2024-01-23 21:59:40,875 INFO /usr/local/bin/bench setup lets-encrypt 360.armsit.com
+2024-01-23 21:59:45,178 DEBUG sudo systemctl stop nginx
+2024-01-23 21:59:45,191 DEBUG /usr/bin/certbot  --config /etc/letsencrypt/configs/360.armsit.com.cfg certonly
+2024-01-23 22:00:24,151 DEBUG sudo systemctl start nginx
+2024-01-23 22:30:14,459 INFO /usr/local/bin/bench get-app hrms
+2024-01-23 22:30:15,010 LOG Getting hrms
+2024-01-23 22:30:15,010 DEBUG cd ./apps && git clone https://github.com/frappe/hrms.git  --depth 1 --origin upstream
+2024-01-23 22:30:21,247 LOG Installing hrms
+2024-01-23 22:30:21,368 DEBUG cd /srv/bench/frappe-bench && /srv/bench/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /srv/bench/frappe-bench/apps/hrms 
+2024-01-23 22:30:23,963 DEBUG cd /srv/bench/frappe-bench/apps/hrms && yarn install
+2024-01-23 22:32:14,476 DEBUG bench build --app hrms
+2024-01-23 22:32:14,573 INFO /usr/local/bin/bench build --app hrms
+2024-01-23 22:32:42,056 INFO /usr/local/bin/bench schedule
+2024-01-23 22:32:42,080 DEBUG cd /srv/bench/frappe-bench && sudo supervisorctl restart frappe-bench-web:
+2024-01-23 22:32:45,678 DEBUG cd /srv/bench/frappe-bench && sudo supervisorctl restart frappe-bench-workers:
+2024-01-23 22:32:47,251 INFO /usr/local/bin/bench worker --queue long,default,short
+2024-01-23 22:32:47,311 INFO /usr/local/bin/bench worker --queue short,default
+2024-01-23 22:32:47,361 INFO /usr/local/bin/bench schedule
+2024-01-23 22:33:02,132 INFO /usr/local/bin/bench --site 360.armsit.com install-app hrms
+2024-01-23 22:33:18,581 INFO /usr/local/bin/bench get-app erpnext
+2024-01-23 22:33:19,146 LOG Getting erpnext
+2024-01-23 22:33:19,147 DEBUG cd ./apps && git clone https://github.com/frappe/erpnext.git  --depth 1 --origin upstream
+2024-01-23 22:33:25,562 LOG Installing erpnext
+2024-01-23 22:33:25,685 DEBUG cd /srv/bench/frappe-bench && /srv/bench/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /srv/bench/frappe-bench/apps/erpnext 
+2024-01-23 22:33:50,869 DEBUG cd /srv/bench/frappe-bench/apps/erpnext && yarn install
+2024-01-23 22:33:51,847 DEBUG bench build --app erpnext
+2024-01-23 22:33:51,943 INFO /usr/local/bin/bench build --app erpnext
+2024-01-23 22:33:55,677 DEBUG cd /srv/bench/frappe-bench && sudo supervisorctl restart frappe-bench-web:
+2024-01-23 22:33:58,152 DEBUG cd /srv/bench/frappe-bench && sudo supervisorctl restart frappe-bench-workers:
+2024-01-23 22:33:59,635 INFO /usr/local/bin/bench worker --queue long,default,short
+2024-01-23 22:33:59,697 INFO /usr/local/bin/bench schedule
+2024-01-23 22:33:59,707 INFO /usr/local/bin/bench worker --queue short,default
+2024-01-23 22:35:38,902 INFO /usr/local/bin/bench --site 360.armsit.com install-app erpnext
+2024-01-23 22:36:01,142 INFO /usr/local/bin/bench --site 360.armsit.com reinstall
+2024-01-23 22:36:56,398 INFO /usr/local/bin/bench --site 360.armsit.com install-app erpnext
+2024-01-23 22:37:26,894 INFO /usr/local/bin/bench --site 360.armsit.com install-app hrms
+2024-01-23 22:38:30,599 INFO /usr/local/bin/bench get-app frappe
+2024-01-23 22:38:35,201 INFO App moved from apps/frappe to archived/apps/frappe-2024-01-23
+2024-01-23 22:38:35,203 LOG Getting frappe
+2024-01-23 22:38:35,203 DEBUG cd ./apps && git clone https://github.com/frappe/frappe.git --branch version-15 --depth 1 --origin upstream
+2024-01-23 22:38:48,861 LOG Installing frappe
+2024-01-23 22:38:49,017 DEBUG cd /srv/bench/frappe-bench && /srv/bench/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /srv/bench/frappe-bench/apps/frappe 
+2024-01-23 22:38:52,981 DEBUG cd /srv/bench/frappe-bench/apps/frappe && yarn install
+2024-01-23 22:39:00,640 DEBUG bench build --app frappe
+2024-01-23 22:39:00,736 INFO /usr/local/bin/bench build --app frappe
+2024-01-23 22:39:25,479 DEBUG cd /srv/bench/frappe-bench && sudo supervisorctl restart frappe-bench-web:
+2024-01-23 22:39:27,919 DEBUG cd /srv/bench/frappe-bench && sudo supervisorctl restart frappe-bench-workers:
+2024-01-23 22:39:28,479 INFO /usr/local/bin/bench schedule
+2024-01-23 22:39:28,501 INFO /usr/local/bin/bench worker --queue long,default,short
+2024-01-23 22:39:28,580 INFO /usr/local/bin/bench worker --queue short,default
+2024-01-23 22:39:51,035 INFO /usr/local/bin/bench init --frappe-branch version-16 frappe-bench
+2024-01-23 22:39:51,077 DEBUG cd frappe-bench && python3 -m venv env
+2024-01-23 22:39:53,930 DEBUG cd frappe-bench && /srv/bench/frappe-bench/frappe-bench/env/bin/python -m pip install --quiet --upgrade pip
+2024-01-23 22:39:55,951 DEBUG cd frappe-bench && /srv/bench/frappe-bench/frappe-bench/env/bin/python -m pip install --quiet wheel
+2024-01-23 22:39:58,776 ERROR There was a problem while creating frappe-bench
+2024-01-23 22:40:05,674 INFO Rolling back Bench "frappe-bench"
+2024-01-23 22:40:41,316 INFO /usr/local/bin/bench --site 360.armsit.com install-app hrms
+2024-01-23 22:41:57,090 INFO /usr/local/bin/bench switch-to-branch version-15 frappe
+2024-01-23 22:41:57,095 INFO Fetching upstream unshallow for frappe
+2024-01-23 22:41:57,095 DEBUG cd ./apps/frappe && git remote set-branches upstream  '*'
+2024-01-23 22:41:57,097 DEBUG cd ./apps/frappe && git fetch --all --unshallow --quiet
+2024-01-23 22:47:12,700 DEBUG cd ./apps/frappe && git checkout -f version-15
+2024-01-23 22:47:13,029 INFO Successfully switched branches for: frappe
+2024-01-23 22:47:32,513 INFO /usr/local/bin/bench --site 360.armsit.com install-app hrms
+2024-01-23 22:47:53,628 INFO /usr/local/bin/bench --site 360.armsit.com install-app erpnext
+2024-01-23 22:48:03,948 INFO /usr/local/bin/bench --site 360.armsit.com reinstall
+2024-01-23 22:48:52,213 INFO /usr/local/bin/bench --site 360.armsit.com install-app erpnext
+2024-01-23 22:49:44,793 INFO /usr/local/bin/bench get-app erpnext --branch version-15
+2024-01-23 22:49:48,778 INFO App moved from apps/erpnext to archived/apps/erpnext-2024-01-23
+2024-01-23 22:49:48,780 LOG Getting erpnext
+2024-01-23 22:49:48,781 DEBUG cd ./apps && git clone https://github.com/frappe/erpnext.git --branch version-15 --depth 1 --origin upstream
+2024-01-23 22:50:03,218 LOG Installing erpnext
+2024-01-23 22:50:03,373 DEBUG cd /srv/bench/frappe-bench && /srv/bench/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /srv/bench/frappe-bench/apps/erpnext 
+2024-01-23 22:50:06,197 DEBUG cd /srv/bench/frappe-bench/apps/erpnext && yarn install
+2024-01-23 22:50:06,557 DEBUG bench build --app erpnext
+2024-01-23 22:50:06,654 INFO /usr/local/bin/bench build --app erpnext
+2024-01-23 22:50:10,347 DEBUG cd /srv/bench/frappe-bench && sudo supervisorctl restart frappe-bench-web:
+2024-01-23 22:50:13,752 DEBUG cd /srv/bench/frappe-bench && sudo supervisorctl restart frappe-bench-workers:
+2024-01-23 22:50:15,271 INFO /usr/local/bin/bench schedule
+2024-01-23 22:50:15,396 INFO /usr/local/bin/bench worker --queue short,default
+2024-01-23 22:50:15,415 INFO /usr/local/bin/bench worker --queue long,default,short
+2024-01-23 22:50:20,764 INFO /usr/local/bin/bench --site 360.armsit.com install-app erpnext
+2024-01-23 22:51:18,448 INFO /usr/local/bin/bench --site 360.armsit.com install-app hrms
+2024-01-23 22:52:14,814 INFO /usr/local/bin/bench --site 360.armsit.com install-app erpnext
+2024-01-23 22:52:21,901 INFO /usr/local/bin/bench --site 360.armsit.com install-app hrms
+2024-01-23 22:54:51,426 INFO /usr/local/bin/bench --site 360.armsit.com install-app crm
+2024-01-23 22:55:04,925 INFO /usr/local/bin/bench get-app crm --branch version-15
+2024-01-23 22:55:05,519 LOG Getting crm
+2024-01-23 22:55:05,519 DEBUG cd ./apps && git clone https://github.com/frappe/crm.git --branch version-15 --depth 1 --origin upstream
+2024-01-23 22:55:06,134 WARNING cd ./apps && git clone https://github.com/frappe/crm.git --branch version-15 --depth 1 --origin upstream executed with exit code 128
+2024-01-23 22:55:06,135 WARNING /usr/local/bin/bench get-app crm --branch version-15 executed with exit code 1
+2024-01-23 22:55:14,862 INFO /usr/local/bin/bench get-app crm
+2024-01-23 22:55:15,132 LOG Getting crm
+2024-01-23 22:55:15,132 DEBUG cd ./apps && git clone https://github.com/frappe/crm.git  --depth 1 --origin upstream
+2024-01-23 22:55:23,129 LOG Installing crm
+2024-01-23 22:55:23,283 DEBUG cd /srv/bench/frappe-bench && /srv/bench/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /srv/bench/frappe-bench/apps/crm 
+2024-01-23 22:55:31,890 DEBUG cd /srv/bench/frappe-bench/apps/crm && yarn install
+2024-01-23 22:55:49,942 DEBUG bench build --app crm
+2024-01-23 22:55:50,039 INFO /usr/local/bin/bench build --app crm
+2024-01-23 22:56:17,038 DEBUG cd /srv/bench/frappe-bench && sudo supervisorctl restart frappe-bench-web:
+2024-01-23 22:56:18,927 INFO /usr/local/bin/bench schedule
+2024-01-23 22:56:19,654 DEBUG cd /srv/bench/frappe-bench && sudo supervisorctl restart frappe-bench-workers:
+2024-01-23 22:56:20,320 INFO /usr/local/bin/bench worker --queue long,default,short
+2024-01-23 22:56:20,377 INFO /usr/local/bin/bench worker --queue short,default
+2024-01-23 22:56:20,439 INFO /usr/local/bin/bench schedule
+2024-01-23 22:56:26,599 INFO /usr/local/bin/bench --site 360.armsit.com install-app crm
+2024-01-23 22:57:18,270 INFO /usr/local/bin/bench get-app drive
+2024-01-23 22:57:18,861 LOG Getting drive
+2024-01-23 22:57:18,861 DEBUG cd ./apps && git clone https://github.com/frappe/drive.git  --depth 1 --origin upstream
+2024-01-23 22:57:28,955 LOG Installing drive
+2024-01-23 22:57:29,133 DEBUG cd /srv/bench/frappe-bench && /srv/bench/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /srv/bench/frappe-bench/apps/drive 
+2024-01-23 22:58:38,752 DEBUG cd /srv/bench/frappe-bench/apps/drive && yarn install
+2024-01-23 22:59:31,870 DEBUG bench build --app drive
+2024-01-23 22:59:31,967 INFO /usr/local/bin/bench build --app drive
+2024-01-23 22:59:57,486 DEBUG cd /srv/bench/frappe-bench && sudo supervisorctl restart frappe-bench-web:
+2024-01-23 23:00:00,828 DEBUG cd /srv/bench/frappe-bench && sudo supervisorctl restart frappe-bench-workers:
+2024-01-23 23:00:02,331 INFO /usr/local/bin/bench schedule
+2024-01-23 23:00:02,375 INFO /usr/local/bin/bench worker --queue long,default,short
+2024-01-23 23:00:02,463 INFO /usr/local/bin/bench worker --queue short,default
+2024-01-23 23:00:09,359 INFO /usr/local/bin/bench --site 360.armsit.com install-app drive
+2024-01-23 23:01:35,643 INFO /usr/local/bin/bench get-app insigts
+2024-01-23 23:01:36,507 WARNING /usr/local/bin/bench get-app insigts executed with exit code 1
+2024-01-23 23:01:47,083 INFO /usr/local/bin/bench get-app insights
+2024-01-23 23:01:47,574 LOG Getting insights
+2024-01-23 23:01:47,574 DEBUG cd ./apps && git clone https://github.com/frappe/insights.git  --depth 1 --origin upstream
+2024-01-23 23:02:04,677 LOG Installing insights
+2024-01-23 23:02:04,866 DEBUG cd /srv/bench/frappe-bench && /srv/bench/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /srv/bench/frappe-bench/apps/insights 
+2024-01-23 23:02:27,543 DEBUG cd /srv/bench/frappe-bench/apps/insights && yarn install
+2024-01-23 23:03:11,743 DEBUG bench build --app insights
+2024-01-23 23:03:11,841 INFO /usr/local/bin/bench build --app insights
+2024-01-23 23:03:48,653 DEBUG cd /srv/bench/frappe-bench && sudo supervisorctl restart frappe-bench-web:
+2024-01-23 23:03:52,142 DEBUG cd /srv/bench/frappe-bench && sudo supervisorctl restart frappe-bench-workers:
+2024-01-23 23:03:53,666 INFO /usr/local/bin/bench worker --queue long,default,short
+2024-01-23 23:03:53,669 INFO /usr/local/bin/bench schedule
+2024-01-23 23:03:53,727 INFO /usr/local/bin/bench worker --queue short,default
+2024-01-23 23:04:08,024 INFO /usr/local/bin/bench --site 360.armsit.com install-app insights
+2024-01-23 23:04:31,831 INFO /usr/local/bin/bench --site 360.armsit.com install-app insights
+2024-01-23 23:06:34,314 INFO /usr/local/bin/bench get-app print_designer
+2024-01-23 23:06:34,808 LOG Getting print_designer
+2024-01-23 23:06:34,808 DEBUG cd ./apps && git clone https://github.com/frappe/print_designer.git  --depth 1 --origin upstream
+2024-01-23 23:06:35,799 LOG Installing print_designer
+2024-01-23 23:06:36,019 DEBUG cd /srv/bench/frappe-bench && /srv/bench/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /srv/bench/frappe-bench/apps/print_designer 
+2024-01-23 23:06:40,020 DEBUG cd /srv/bench/frappe-bench/apps/print_designer && yarn install
+2024-01-23 23:07:28,919 DEBUG bench build --app print_designer
+2024-01-23 23:07:29,089 INFO /usr/local/bin/bench build --app print_designer
+2024-01-23 23:07:36,027 DEBUG cd /srv/bench/frappe-bench && sudo supervisorctl restart frappe-bench-web:
+2024-01-23 23:07:38,561 DEBUG cd /srv/bench/frappe-bench && sudo supervisorctl restart frappe-bench-workers:
+2024-01-23 23:07:39,170 INFO /usr/local/bin/bench worker --queue short,default
+2024-01-23 23:07:39,215 INFO /usr/local/bin/bench schedule
+2024-01-23 23:07:39,282 INFO /usr/local/bin/bench worker --queue long,default,short
+2024-01-23 23:13:59,253 INFO /usr/local/bin/bench --site 360.armsit.com install-app print_designer
+2024-01-23 23:16:07,790 INFO /usr/local/bin/bench get-app insights_docs
+2024-01-23 23:16:08,323 LOG Getting insights_docs
+2024-01-23 23:16:08,324 DEBUG cd ./apps && git clone https://github.com/frappe/insights_docs.git  --depth 1 --origin upstream
+2024-01-23 23:16:17,787 WARNING /usr/local/bin/bench get-app insights_docs executed with exit code 1
+2024-01-23 23:16:36,858 INFO /usr/local/bin/bench get-app insights_docs
+2024-01-23 23:16:38,816 INFO App moved from apps/insights_docs to archived/apps/insights_docs-2024-01-23
+2024-01-23 23:16:38,819 LOG Getting insights_docs
+2024-01-23 23:16:38,819 DEBUG cd ./apps && git clone https://github.com/frappe/insights_docs.git --branch main --depth 1 --origin upstream
+2024-01-23 23:16:48,318 WARNING /usr/local/bin/bench get-app insights_docs executed with exit code 1
+2024-01-23 23:17:02,437 INFO /usr/local/bin/bench --site 360.armsit.com install-app insights_docs
+2024-01-23 23:18:07,639 INFO /usr/local/bin/bench get-app https://github.com/frappe/bhumi_awards_portal.git
+2024-01-23 23:18:07,647 LOG Getting bhumi_awards_portal
+2024-01-23 23:18:07,647 DEBUG cd ./apps && git clone https://github.com/frappe/bhumi_awards_portal.git  --depth 1 --origin upstream
+2024-01-23 23:18:31,018 WARNING cd ./apps && git clone https://github.com/frappe/bhumi_awards_portal.git  --depth 1 --origin upstream executed with exit code 128
+2024-01-23 23:18:31,019 WARNING /usr/local/bin/bench get-app https://github.com/frappe/bhumi_awards_portal.git executed with exit code 1
+2024-01-23 23:19:05,189 INFO /usr/local/bin/bench get-app non_profit
+2024-01-23 23:19:05,767 LOG Getting non_profit
+2024-01-23 23:19:05,767 DEBUG cd ./apps && git clone https://github.com/frappe/non_profit.git  --depth 1 --origin upstream
+2024-01-23 23:19:06,704 LOG Installing non_profit
+2024-01-23 23:19:06,927 DEBUG cd /srv/bench/frappe-bench && /srv/bench/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /srv/bench/frappe-bench/apps/non_profit 
+2024-01-23 23:19:08,837 DEBUG bench build --app non_profit
+2024-01-23 23:19:08,938 INFO /usr/local/bin/bench build --app non_profit
+2024-01-23 23:19:11,311 DEBUG cd /srv/bench/frappe-bench && sudo supervisorctl restart frappe-bench-web:
+2024-01-23 23:19:13,983 DEBUG cd /srv/bench/frappe-bench && sudo supervisorctl restart frappe-bench-workers:
+2024-01-23 23:19:14,516 INFO /usr/local/bin/bench worker --queue long,default,short
+2024-01-23 23:19:14,598 INFO /usr/local/bin/bench worker --queue short,default
+2024-01-23 23:19:14,659 INFO /usr/local/bin/bench schedule
+2024-01-23 23:19:24,329 INFO /usr/local/bin/bench --site 360.armsit.com install-app non_profit
+2024-01-23 23:19:56,660 INFO /usr/local/bin/bench --site 360.armsit.com install-app non_profit
+2024-01-23 23:23:05,931 INFO /usr/local/bin/bench get-app https://github.com/DeeMysterio/erpnext_ksa.git
+2024-01-23 23:23:05,939 LOG Getting erpnext_ksa
+2024-01-23 23:23:05,939 DEBUG cd ./apps && git clone https://github.com/DeeMysterio/erpnext_ksa.git  --depth 1 --origin upstream
+2024-01-23 23:23:06,867 LOG Installing erpnext_ksa
+2024-01-23 23:23:07,082 DEBUG cd /srv/bench/frappe-bench && /srv/bench/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /srv/bench/frappe-bench/apps/erpnext_ksa 
+2024-01-23 23:23:08,924 DEBUG bench build --app erpnext_ksa
+2024-01-23 23:23:09,022 INFO /usr/local/bin/bench build --app erpnext_ksa
+2024-01-23 23:23:11,392 DEBUG cd /srv/bench/frappe-bench && sudo supervisorctl restart frappe-bench-web:
+2024-01-23 23:23:13,956 DEBUG cd /srv/bench/frappe-bench && sudo supervisorctl restart frappe-bench-workers:
+2024-01-23 23:23:15,449 INFO /usr/local/bin/bench schedule
+2024-01-23 23:23:15,511 INFO /usr/local/bin/bench worker --queue long,default,short
+2024-01-23 23:23:15,574 INFO /usr/local/bin/bench worker --queue short,default
+2024-01-23 23:23:20,751 INFO /usr/local/bin/bench --site demo.com install-app erpnext_ksa
+2024-01-23 23:23:36,141 INFO /usr/local/bin/bench --site 360.armsit.com install-app erpnext_ksa
+2024-01-23 23:23:45,873 INFO /usr/local/bin/bench --site 360.armsit.com install-app erpnext_ksa
+2024-01-23 23:26:00,914 INFO /usr/local/bin/bench get-app meeting
+2024-01-23 23:26:01,479 LOG Getting meeting
+2024-01-23 23:26:01,479 DEBUG cd ./apps && git clone https://github.com/frappe/meeting.git  --depth 1 --origin upstream
+2024-01-23 23:26:02,590 LOG Installing meeting
+2024-01-23 23:26:02,805 DEBUG cd /srv/bench/frappe-bench && /srv/bench/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /srv/bench/frappe-bench/apps/meeting 
+2024-01-23 23:26:06,350 DEBUG bench build --app meeting
+2024-01-23 23:26:06,448 INFO /usr/local/bin/bench build --app meeting
+2024-01-23 23:26:08,802 DEBUG cd /srv/bench/frappe-bench && sudo supervisorctl restart frappe-bench-web:
+2024-01-23 23:26:11,373 DEBUG cd /srv/bench/frappe-bench && sudo supervisorctl restart frappe-bench-workers:
+2024-01-23 23:26:11,811 INFO /usr/local/bin/bench schedule
+2024-01-23 23:26:11,860 INFO /usr/local/bin/bench worker --queue short,default
+2024-01-23 23:26:11,950 INFO /usr/local/bin/bench worker --queue long,default,short
+2024-01-24 00:00:01,975 INFO /usr/local/bin/bench --verbose --site all backup
+2024-01-24 00:35:09,166 INFO /usr/local/bin/bench get-app https://github.com/frappe/drive
+2024-01-24 00:35:11,417 INFO App moved from apps/drive to archived/apps/drive-2024-01-24
+2024-01-24 00:35:11,419 LOG Getting drive
+2024-01-24 00:35:11,420 DEBUG cd ./apps && git clone https://github.com/frappe/drive  --depth 1 --origin upstream
+2024-01-24 00:35:21,444 LOG Installing drive
+2024-01-24 00:35:21,670 DEBUG cd /srv/bench/frappe-bench && /srv/bench/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /srv/bench/frappe-bench/apps/drive 
+2024-01-24 00:35:24,941 DEBUG cd /srv/bench/frappe-bench/apps/drive && yarn install
+2024-01-24 00:35:41,050 DEBUG bench build --app drive
+2024-01-24 00:35:41,149 INFO /usr/local/bin/bench build --app drive
+2024-01-24 00:36:15,991 DEBUG cd /srv/bench/frappe-bench && sudo supervisorctl restart frappe-bench-web:
+2024-01-24 00:36:18,746 DEBUG cd /srv/bench/frappe-bench && sudo supervisorctl restart frappe-bench-workers:
+2024-01-24 00:36:19,196 INFO /usr/local/bin/bench schedule
+2024-01-24 00:36:19,244 INFO /usr/local/bin/bench worker --queue short,default
+2024-01-24 00:36:19,341 INFO /usr/local/bin/bench worker --queue long,default,short
+2024-01-24 00:36:53,012 INFO /usr/local/bin/bench --site 360.armsit.com install-app drive
+2024-01-24 00:37:03,845 INFO /usr/local/bin/bench --site 360.armsit.com reinstall-app drive
+2024-01-24 00:37:15,912 INFO /usr/local/bin/bench --site 360.armsit.com remove-app drive
+2024-01-24 00:37:15,915 WARNING /usr/local/bin/bench --site 360.armsit.com remove-app drive executed with exit code 2
+2024-01-24 00:37:25,394 INFO /usr/local/bin/bench --site 360.armsit.com install-app drive
+2024-01-24 06:00:01,770 INFO /usr/local/bin/bench --verbose --site all backup
+2024-01-24 12:00:01,399 INFO /usr/local/bin/bench --verbose --site all backup
+2024-01-24 18:00:01,261 INFO /usr/local/bin/bench --verbose --site all backup
+2024-01-25 00:00:01,901 INFO /usr/local/bin/bench --verbose --site all backup
+2024-01-25 06:00:01,676 INFO /usr/local/bin/bench --verbose --site all backup
+2024-01-25 12:00:01,260 INFO /usr/local/bin/bench --verbose --site all backup
+2024-01-25 18:00:01,794 INFO /usr/local/bin/bench --verbose --site all backup
+2024-01-26 00:00:01,428 INFO /usr/local/bin/bench --verbose --site all backup
+2024-01-26 06:00:01,187 INFO /usr/local/bin/bench --verbose --site all backup
+2024-01-26 12:00:01,820 INFO /usr/local/bin/bench --verbose --site all backup
+2024-01-26 18:00:01,725 INFO /usr/local/bin/bench --verbose --site all backup
+2024-01-27 00:00:01,367 INFO /usr/local/bin/bench --verbose --site all backup
+2024-01-27 06:00:01,115 INFO /usr/local/bin/bench --verbose --site all backup
+2024-01-27 12:00:01,669 INFO /usr/local/bin/bench --verbose --site all backup
+2024-01-27 18:00:01,503 INFO /usr/local/bin/bench --verbose --site all backup
+2024-01-28 00:00:02,295 INFO /usr/local/bin/bench --verbose --site all backup
+2024-01-28 06:00:02,085 INFO /usr/local/bin/bench --verbose --site all backup
+2024-01-28 12:00:01,727 INFO /usr/local/bin/bench --verbose --site all backup
+2024-01-28 18:00:01,469 INFO /usr/local/bin/bench --verbose --site all backup
+2024-01-29 00:00:02,201 INFO /usr/local/bin/bench --verbose --site all backup
+2024-01-29 06:00:02,020 INFO /usr/local/bin/bench --verbose --site all backup
+2024-01-29 12:00:01,606 INFO /usr/local/bin/bench --verbose --site all backup
+2024-01-29 18:00:01,158 INFO /usr/local/bin/bench --verbose --site all backup
+2024-01-30 00:00:01,822 INFO /usr/local/bin/bench --verbose --site all backup
+2024-01-30 06:00:01,609 INFO /usr/local/bin/bench --verbose --site all backup
+2024-01-30 12:00:01,177 INFO /usr/local/bin/bench --verbose --site all backup
+2024-01-30 18:00:01,734 INFO /usr/local/bin/bench --verbose --site all backup
+2024-01-30 23:04:23,790 INFO /usr/local/bin/bench get-app https://github.com/frappe/drive
+2024-01-30 23:04:25,875 INFO App moved from apps/drive to archived/apps/drive-2024-01-30
+2024-01-30 23:04:25,877 LOG Getting drive
+2024-01-30 23:04:25,878 DEBUG cd ./apps && git clone https://github.com/frappe/drive  --depth 1 --origin upstream
+2024-01-30 23:04:37,287 LOG Installing drive
+2024-01-30 23:04:37,700 DEBUG cd /srv/bench/frappe-bench && /srv/bench/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /srv/bench/frappe-bench/apps/drive 
+2024-01-30 23:04:41,497 DEBUG cd /srv/bench/frappe-bench/apps/drive && yarn install
+2024-01-30 23:04:58,166 DEBUG bench build --app drive
+2024-01-30 23:04:58,266 INFO /usr/local/bin/bench build --app drive
+2024-01-30 23:05:31,290 DEBUG cd /srv/bench/frappe-bench && sudo supervisorctl restart frappe-bench-web:
+2024-01-30 23:05:33,848 DEBUG cd /srv/bench/frappe-bench && sudo supervisorctl restart frappe-bench-workers:
+2024-01-30 23:05:34,392 INFO /usr/local/bin/bench schedule
+2024-01-30 23:05:34,432 INFO /usr/local/bin/bench worker --queue short,default
+2024-01-30 23:05:34,526 INFO /usr/local/bin/bench worker --queue long,default,short
+2024-01-30 23:05:35,764 INFO A newer version of bench is available: 5.20.0 → 5.21.0
+2024-01-30 23:05:49,817 INFO /usr/local/bin/bench --site 360.armsit.com install-app drive
+2024-01-30 23:05:56,820 INFO /usr/local/bin/bench start
+2024-01-30 23:07:37,941 INFO /usr/local/bin/bench --site 360.armsit.com remove-app drive
+2024-01-30 23:07:37,943 WARNING /usr/local/bin/bench --site 360.armsit.com remove-app drive executed with exit code 2
+2024-01-30 23:07:38,287 INFO A newer version of bench is available: 5.20.0 → 5.21.0
+2024-01-30 23:12:12,131 INFO /usr/local/bin/bench --site 360.armsit.com drop-app drive
+2024-01-30 23:12:24,351 INFO /usr/local/bin/bench --site 360.armsit.com delete-app drive
+2024-01-30 23:12:28,559 INFO /usr/local/bin/bench --site 360.armsit.com remove-app drive
+2024-01-30 23:12:28,561 WARNING /usr/local/bin/bench --site 360.armsit.com remove-app drive executed with exit code 2
+2024-01-30 23:12:28,912 INFO A newer version of bench is available: 5.20.0 → 5.21.0
+2024-01-30 23:13:25,826 INFO /usr/local/bin/bench --site 360.armsit.com remove-app drive
+2024-01-30 23:13:25,829 WARNING /usr/local/bin/bench --site 360.armsit.com remove-app drive executed with exit code 2
+2024-01-30 23:17:31,132 INFO /usr/local/bin/bench --site 360.armsit.com install-app drive
+2024-01-31 00:00:01,467 INFO /usr/local/bin/bench --verbose --site all backup
+2024-01-31 06:00:01,296 INFO /usr/local/bin/bench --verbose --site all backup
+2024-01-31 12:00:01,875 INFO /usr/local/bin/bench --verbose --site all backup
+2024-01-31 18:00:01,411 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-01 00:00:02,137 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-01 06:00:01,873 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-01 12:00:01,406 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-01 18:00:01,944 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-02 00:00:01,698 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-02 06:00:01,437 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-02 12:00:01,976 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-02 18:00:01,526 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-03 00:00:02,168 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-03 06:00:01,938 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-03 12:00:01,477 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-03 18:00:02,045 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-04 00:00:01,707 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-04 06:00:01,572 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-04 12:00:01,139 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-04 18:00:01,676 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-05 00:00:01,350 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-05 06:00:01,130 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-05 12:00:01,676 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-05 18:00:01,299 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-06 00:00:02,007 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-06 06:00:01,799 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-06 12:00:01,360 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-06 18:00:01,908 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-07 00:00:01,650 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-07 06:00:01,426 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-07 12:00:02,096 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-07 18:00:01,885 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-08 00:00:01,591 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-08 06:00:01,427 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-08 12:00:02,000 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-08 18:00:01,553 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-09 00:00:01,393 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-09 06:00:01,202 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-09 12:00:01,869 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-09 18:00:01,984 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-10 00:00:01,686 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-10 06:00:01,514 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-10 12:00:01,118 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-10 18:00:01,710 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-11 00:00:01,548 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-11 06:00:01,374 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-11 12:00:01,982 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-11 18:00:01,553 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-12 00:00:01,245 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-12 06:00:02,056 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-12 12:00:01,663 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-12 18:00:01,230 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-13 00:00:01,860 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-13 06:00:01,665 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-13 12:00:01,260 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-13 18:00:01,852 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-14 00:00:01,558 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-14 06:00:01,391 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-14 12:00:01,988 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-14 18:00:01,694 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-14 23:53:07,111 INFO /usr/local/bin/bench get-app https://github.com/frappe/insights
+2024-02-14 23:53:20,821 INFO App moved from apps/insights to archived/apps/insights-2024-02-14
+2024-02-14 23:53:20,824 LOG Getting insights
+2024-02-14 23:53:20,824 DEBUG cd ./apps && git clone https://github.com/frappe/insights  --depth 1 --origin upstream
+2024-02-14 23:53:37,664 LOG Installing insights
+2024-02-14 23:53:37,883 DEBUG cd /srv/bench/frappe-bench && /srv/bench/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /srv/bench/frappe-bench/apps/insights 
+2024-02-14 23:53:41,506 DEBUG cd /srv/bench/frappe-bench/apps/insights && yarn install
+2024-02-14 23:53:54,862 DEBUG bench build --app insights
+2024-02-14 23:53:54,964 INFO /usr/local/bin/bench build --app insights
+2024-02-14 23:54:41,675 DEBUG cd /srv/bench/frappe-bench && sudo supervisorctl restart frappe-bench-web:
+2024-02-14 23:54:44,485 DEBUG cd /srv/bench/frappe-bench && sudo supervisorctl restart frappe-bench-workers:
+2024-02-14 23:54:45,958 INFO /usr/local/bin/bench worker --queue short,default
+2024-02-14 23:54:46,001 INFO /usr/local/bin/bench schedule
+2024-02-14 23:54:46,086 INFO /usr/local/bin/bench worker --queue long,default,short
+2024-02-14 23:54:47,270 INFO A newer version of bench is available: 5.21.0 → 5.22.0
+2024-02-14 23:55:04,196 INFO /usr/local/bin/bench --site 360.armsit.com install-app insights
+2024-02-14 23:56:24,449 INFO /usr/local/bin/bench remove-app insights
+2024-02-14 23:56:24,556 INFO /usr/local/bin/bench --site all list-apps --format json
+2024-02-14 23:56:25,736 INFO /usr/local/bin/bench --site 360.armsit.com list-apps
+2024-02-14 23:56:26,738 WARNING /usr/local/bin/bench remove-app insights executed with exit code 1
+2024-02-14 23:56:27,069 INFO A newer version of bench is available: 5.21.0 → 5.22.0
+2024-02-14 23:56:41,377 INFO /usr/local/bin/bench --site 360.armsit.com remove-app insights
+2024-02-14 23:56:41,379 WARNING /usr/local/bin/bench --site 360.armsit.com remove-app insights executed with exit code 2
+2024-02-14 23:56:41,704 INFO A newer version of bench is available: 5.21.0 → 5.22.0
+2024-02-14 23:57:02,986 INFO /usr/local/bin/bench --site 360.armsit.com unistall-app insights
+2024-02-14 23:57:17,533 INFO /usr/local/bin/bench --site 360.armsit.com install-app insights
+2024-02-14 23:57:24,493 INFO /usr/local/bin/bench --site 360.armsit.com uninstall-app insights
+2024-02-14 23:58:33,575 INFO /usr/local/bin/bench get-app https://github.com/frappe/insights
+2024-02-14 23:58:36,185 INFO App moved from apps/insights to archived/apps/insights-2024-02-14_1
+2024-02-14 23:58:36,187 LOG Getting insights
+2024-02-14 23:58:36,187 DEBUG cd ./apps && git clone https://github.com/frappe/insights  --depth 1 --origin upstream
+2024-02-14 23:58:53,056 LOG Installing insights
+2024-02-14 23:58:53,273 DEBUG cd /srv/bench/frappe-bench && /srv/bench/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /srv/bench/frappe-bench/apps/insights 
+2024-02-14 23:58:56,565 DEBUG cd /srv/bench/frappe-bench/apps/insights && yarn install
+2024-02-14 23:59:08,018 DEBUG bench build --app insights
+2024-02-14 23:59:08,119 INFO /usr/local/bin/bench build --app insights
+2024-02-14 23:59:44,745 DEBUG cd /srv/bench/frappe-bench && sudo supervisorctl restart frappe-bench-web:
+2024-02-14 23:59:47,244 DEBUG cd /srv/bench/frappe-bench && sudo supervisorctl restart frappe-bench-workers:
+2024-02-14 23:59:48,817 INFO /usr/local/bin/bench schedule
+2024-02-14 23:59:49,013 INFO /usr/local/bin/bench worker --queue long,default,short
+2024-02-14 23:59:49,014 INFO /usr/local/bin/bench worker --queue short,default
+2024-02-14 23:59:50,129 INFO A newer version of bench is available: 5.21.0 → 5.22.0
+2024-02-14 23:59:58,984 INFO /usr/local/bin/bench --site 360.armsit.com install-app insights
+2024-02-15 00:00:01,920 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-15 06:00:01,606 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-15 12:00:01,362 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-15 18:00:01,124 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-16 00:00:02,062 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-16 06:00:02,043 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-16 12:00:01,812 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-16 18:00:01,555 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-17 00:00:01,442 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-17 06:00:01,445 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-17 12:00:01,220 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-17 18:00:01,976 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-18 00:00:01,979 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-18 06:00:02,020 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-18 12:00:01,801 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-18 18:00:01,560 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-19 00:00:01,480 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-19 06:00:01,459 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-19 12:00:01,246 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-19 18:00:02,015 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-20 00:00:01,920 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-20 06:00:01,921 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-20 12:00:01,692 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-20 18:00:01,451 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-21 00:00:01,341 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-21 06:00:01,355 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-21 12:00:01,163 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-21 18:00:01,942 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-22 00:00:01,839 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-22 06:00:01,828 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-22 12:00:01,600 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-22 18:00:01,357 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-23 00:00:01,234 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-23 06:00:01,250 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-23 12:00:02,042 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-23 18:00:01,835 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-24 00:00:01,768 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-28 19:23:50,738 INFO /usr/local/bin/bench schedule
+2024-02-28 19:23:50,742 INFO /usr/local/bin/bench worker --queue long,default,short
+2024-02-29 00:00:01,371 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-29 06:00:01,762 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-29 12:00:01,482 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-29 18:00:01,190 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-01 00:00:02,100 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-01 06:00:02,046 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-01 12:00:01,779 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-01 18:00:01,489 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-02 00:00:01,310 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-02 06:00:01,280 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-02 12:00:02,019 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-02 18:00:01,758 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-03 00:00:01,777 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-03 06:00:01,781 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-03 12:00:01,535 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-03 18:00:01,261 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-04 00:00:02,122 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-04 06:00:02,150 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-04 12:00:01,294 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-04 18:00:02,025 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-05 00:00:01,897 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-05 06:00:01,882 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-05 12:00:01,635 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-05 18:00:01,387 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-06 00:00:01,227 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-06 06:00:01,216 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-06 12:00:01,958 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-06 18:00:01,699 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-07 00:00:01,648 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-07 06:00:01,622 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-07 12:00:01,369 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-07 18:00:01,119 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-08 00:00:02,004 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-08 06:00:01,985 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-08 12:00:01,754 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-08 18:00:01,520 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-09 00:00:01,410 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-09 06:00:01,407 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-09 12:00:01,275 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-09 18:00:01,474 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-10 00:00:01,460 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-10 06:00:01,559 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-10 12:00:01,353 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-10 18:00:01,116 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-11 00:00:01,993 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-11 06:00:02,007 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-11 12:00:01,802 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-11 18:00:01,582 INFO /usr/local/bin/bench --verbose --site all backup

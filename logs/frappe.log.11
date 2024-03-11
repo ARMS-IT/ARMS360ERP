@@ -1,0 +1,1771 @@
+2024-01-23 22:33:02,709 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:33:02,709 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:33:02,710 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:33:02,710 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:33:02,710 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:33:02,710 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:33:02,710 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:33:02,710 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:33:57,426 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:33:57,427 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:33:57,427 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:33:57,428 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:33:57,428 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:33:57,428 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:33:57,428 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:33:57,428 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:33:57,428 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:33:57,429 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:33:57,429 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:35:39,510 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:35:39,511 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:35:39,511 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:35:39,511 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:35:39,511 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:35:39,511 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:35:39,511 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:35:39,511 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:35:39,511 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:35:39,512 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:35:39,512 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:36:01,790 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:36:01,790 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:36:01,790 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:36:01,790 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:36:01,791 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:36:01,791 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:36:01,791 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:36:01,791 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:36:01,791 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:36:01,791 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:36:01,791 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:36:57,010 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:36:57,010 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:36:57,010 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:36:57,010 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:36:57,010 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:36:57,010 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:36:57,010 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:36:57,011 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:36:57,011 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:36:57,011 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:36:57,011 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:37:27,503 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:37:27,503 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:37:27,504 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:37:27,504 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:37:27,504 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:37:27,504 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:37:27,504 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:37:27,504 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:37:27,504 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:37:27,504 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:37:27,504 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:39:27,293 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:39:27,293 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:39:27,293 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:39:27,294 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:39:27,294 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:39:27,294 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:39:27,294 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:39:27,294 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:39:27,295 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:39:27,295 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:39:27,295 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:40:41,933 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:40:41,933 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:40:41,933 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:40:41,934 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:40:41,934 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:40:41,934 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:40:41,934 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:40:41,934 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:40:41,934 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:40:41,934 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:40:41,934 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:43:20,532 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-23 22:43:20,534 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-23 22:43:20,536 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-23 22:43:20,537 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-23 22:43:20,537 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-23 22:43:20,539 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-23 22:43:20,540 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-23 22:43:20,542 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-23 22:43:20,545 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-23 22:43:20,545 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-23 22:43:20,545 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-23 22:43:21,792 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-23 22:43:21,793 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-23 22:43:21,793 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-23 22:43:21,794 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-23 22:43:21,794 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-23 22:43:21,794 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-23 22:43:21,794 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-23 22:43:21,795 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-23 22:43:21,795 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-23 22:43:21,795 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-23 22:43:21,795 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-23 22:45:12,589 ERROR frappe New Exception collected in error log
+Site: 360.armsit.com
+Form Dict: {'user': 'rayoub@armsit.com', 'cmd': 'frappe.core.doctype.user.user.reset_password'}
+2024-01-23 22:47:33,126 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:47:33,126 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:47:33,126 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:47:33,126 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:47:33,126 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:47:33,127 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:47:33,127 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:47:33,127 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:47:33,127 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:47:33,127 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:47:33,127 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:47:54,240 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:47:54,240 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:47:54,240 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:47:54,241 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:47:54,241 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:47:54,241 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:47:54,241 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:47:54,241 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:47:54,241 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:47:54,241 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:47:54,241 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:48:04,561 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:48:04,561 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:48:04,561 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:48:04,561 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:48:04,561 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:48:04,561 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:48:04,562 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:48:04,562 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:48:04,562 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:48:04,562 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:48:04,562 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:48:52,826 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:48:52,826 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:48:52,826 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:48:52,826 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:48:52,826 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:48:52,826 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:48:52,826 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:48:52,827 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:48:52,827 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:48:52,827 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:48:52,827 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:50:12,097 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:50:12,098 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:50:12,098 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:50:12,098 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:50:12,098 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:50:12,098 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:50:12,099 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:50:12,099 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:50:12,099 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:50:12,099 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:50:12,099 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:50:21,389 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:50:21,389 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:50:21,389 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:50:21,389 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:50:21,390 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:50:21,390 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:50:21,390 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:50:21,390 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:50:21,390 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:50:21,390 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:50:21,390 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:51:19,490 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:51:19,490 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:51:19,490 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:51:19,491 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:51:19,491 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:51:19,491 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:51:19,491 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:51:19,491 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:51:19,491 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:51:19,492 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:51:19,492 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:52:15,426 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:52:15,427 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:52:15,427 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:52:15,427 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:52:15,427 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:52:15,427 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:52:15,427 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:52:15,427 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:52:15,427 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:52:15,427 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:52:15,427 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:52:22,518 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:52:22,518 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:52:22,518 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:52:22,518 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:52:22,518 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:52:22,518 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:52:22,519 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:52:22,519 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:52:22,519 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:52:22,519 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:52:22,519 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-23 22:53:41,667 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-23 22:53:41,668 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-23 22:53:41,668 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-23 22:53:41,668 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-23 22:53:41,669 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-23 22:53:41,669 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-23 22:53:41,669 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-23 22:53:41,669 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-23 22:53:41,670 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-23 22:53:41,670 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound

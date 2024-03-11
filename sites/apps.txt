@@ -1,0 +1,10 @@
+frappe
+erpnext
+meeting
+hrms
+crm
+insights
+erpnext_ksa
+print_designer
+drive
+non_profit

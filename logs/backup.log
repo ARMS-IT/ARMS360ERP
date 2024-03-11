@@ -1,0 +1,1038 @@
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240123_190003-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-01-23 19:00:04.299713
+Config  : ./360.armsit.com/private/backups/20240123_190003-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240123_190003-360_armsit_com-database.sql.gz         1.2MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240124_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-01-24 01:00:03.841953
+Config  : ./360.armsit.com/private/backups/20240124_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240124_010002-360_armsit_com-database.sql.gz         1.3MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240124_070002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-01-24 07:00:04.756912
+Config  : ./360.armsit.com/private/backups/20240124_070002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240124_070002-360_armsit_com-database.sql.gz         1.3MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240124_130002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-01-24 13:00:03.324328
+Config  : ./360.armsit.com/private/backups/20240124_130002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240124_130002-360_armsit_com-database.sql.gz         1.3MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240124_190002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-01-24 19:00:04.210219
+Config  : ./360.armsit.com/private/backups/20240124_190002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240124_190002-360_armsit_com-database.sql.gz         1.3MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240125_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-01-25 01:00:03.761940
+Config  : ./360.armsit.com/private/backups/20240125_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240125_010002-360_armsit_com-database.sql.gz         1.3MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240125_070002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-01-25 07:00:03.338411
+Config  : ./360.armsit.com/private/backups/20240125_070002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240125_070002-360_armsit_com-database.sql.gz         1.3MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240125_130002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-01-25 13:00:03.835822
+Config  : ./360.armsit.com/private/backups/20240125_130002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240125_130002-360_armsit_com-database.sql.gz         1.3MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240125_190002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-01-25 19:00:03.716840
+Config  : ./360.armsit.com/private/backups/20240125_190002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240125_190002-360_armsit_com-database.sql.gz         1.3MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240126_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-01-26 01:00:03.268436
+Config  : ./360.armsit.com/private/backups/20240126_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240126_010002-360_armsit_com-database.sql.gz         1.3MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240126_070003-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-01-26 07:00:05.235691
+Config  : ./360.armsit.com/private/backups/20240126_070003-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240126_070003-360_armsit_com-database.sql.gz         1.3MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240126_130002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-01-26 13:00:03.780642
+Config  : ./360.armsit.com/private/backups/20240126_130002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240126_130002-360_armsit_com-database.sql.gz         1.3MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240126_190002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-01-26 19:00:03.655825
+Config  : ./360.armsit.com/private/backups/20240126_190002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240126_190002-360_armsit_com-database.sql.gz         1.3MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240127_010001-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-01-27 01:00:03.186849
+Config  : ./360.armsit.com/private/backups/20240127_010001-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240127_010001-360_armsit_com-database.sql.gz         1.3MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240127_070002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-01-27 07:00:04.053182
+Config  : ./360.armsit.com/private/backups/20240127_070002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240127_070002-360_armsit_com-database.sql.gz         1.4MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240127_130002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-01-27 13:00:03.544216
+Config  : ./360.armsit.com/private/backups/20240127_130002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240127_130002-360_armsit_com-database.sql.gz         1.4MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240127_190003-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-01-27 19:00:04.610300
+Config  : ./360.armsit.com/private/backups/20240127_190003-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240127_190003-360_armsit_com-database.sql.gz         1.4MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240128_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-01-28 01:00:04.159319
+Config  : ./360.armsit.com/private/backups/20240128_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240128_010002-360_armsit_com-database.sql.gz         1.4MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240128_070002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-01-28 07:00:04.003698
+Config  : ./360.armsit.com/private/backups/20240128_070002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240128_070002-360_armsit_com-database.sql.gz         1.4MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240128_130002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-01-28 13:00:03.560126
+Config  : ./360.armsit.com/private/backups/20240128_130002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240128_130002-360_armsit_com-database.sql.gz         1.4MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240128_190003-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-01-28 19:00:04.537980
+Config  : ./360.armsit.com/private/backups/20240128_190003-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240128_190003-360_armsit_com-database.sql.gz         1.4MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240129_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-01-29 01:00:04.121063
+Config  : ./360.armsit.com/private/backups/20240129_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240129_010002-360_armsit_com-database.sql.gz         1.4MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240129_070002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-01-29 07:00:03.694622
+Config  : ./360.armsit.com/private/backups/20240129_070002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240129_070002-360_armsit_com-database.sql.gz         1.4MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240129_130001-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-01-29 13:00:03.248916
+Config  : ./360.armsit.com/private/backups/20240129_130001-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240129_130001-360_armsit_com-database.sql.gz         1.4MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240129_190002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-01-29 19:00:04.145399
+Config  : ./360.armsit.com/private/backups/20240129_190002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240129_190002-360_armsit_com-database.sql.gz         1.4MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240130_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-01-30 01:00:03.707611
+Config  : ./360.armsit.com/private/backups/20240130_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240130_010002-360_armsit_com-database.sql.gz         1.4MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240130_070002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-01-30 07:00:03.274769
+Config  : ./360.armsit.com/private/backups/20240130_070002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240130_070002-360_armsit_com-database.sql.gz         1.4MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240130_130002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-01-30 13:00:03.795498
+Config  : ./360.armsit.com/private/backups/20240130_130002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240130_130002-360_armsit_com-database.sql.gz         1.4MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240130_190002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-01-30 19:00:03.835004
+Config  : ./360.armsit.com/private/backups/20240130_190002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240130_190002-360_armsit_com-database.sql.gz         1.4MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240131_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-01-31 01:00:03.389214
+Config  : ./360.armsit.com/private/backups/20240131_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240131_010002-360_armsit_com-database.sql.gz         1.4MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240131_070002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-01-31 07:00:03.957530
+Config  : ./360.armsit.com/private/backups/20240131_070002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240131_070002-360_armsit_com-database.sql.gz         1.4MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240131_130002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-01-31 13:00:03.494692
+Config  : ./360.armsit.com/private/backups/20240131_130002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240131_130002-360_armsit_com-database.sql.gz         1.5MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240131_190003-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-01-31 19:00:04.415878
+Config  : ./360.armsit.com/private/backups/20240131_190003-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240131_190003-360_armsit_com-database.sql.gz         1.5MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240201_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-01 01:00:03.939697
+Config  : ./360.armsit.com/private/backups/20240201_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240201_010002-360_armsit_com-database.sql.gz         1.5MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240201_070002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-01 07:00:03.477021
+Config  : ./360.armsit.com/private/backups/20240201_070002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240201_070002-360_armsit_com-database.sql.gz         1.5MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240201_130002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-01 13:00:04.021696
+Config  : ./360.armsit.com/private/backups/20240201_130002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240201_130002-360_armsit_com-database.sql.gz         1.5MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240201_190002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-01 19:00:03.979240
+Config  : ./360.armsit.com/private/backups/20240201_190002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240201_190002-360_armsit_com-database.sql.gz         1.5MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240202_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-02 01:00:03.503197
+Config  : ./360.armsit.com/private/backups/20240202_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240202_010002-360_armsit_com-database.sql.gz         1.5MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240202_070002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-02 07:00:04.070444
+Config  : ./360.armsit.com/private/backups/20240202_070002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240202_070002-360_armsit_com-database.sql.gz         1.5MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240202_130002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-02 13:00:03.600486
+Config  : ./360.armsit.com/private/backups/20240202_130002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240202_130002-360_armsit_com-database.sql.gz         1.5MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240202_190003-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-02 19:00:04.485093
+Config  : ./360.armsit.com/private/backups/20240202_190003-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240202_190003-360_armsit_com-database.sql.gz         1.5MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240203_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-03 01:00:04.011108
+Config  : ./360.armsit.com/private/backups/20240203_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240203_010002-360_armsit_com-database.sql.gz         1.5MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240203_070002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-03 07:00:03.580603
+Config  : ./360.armsit.com/private/backups/20240203_070002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240203_070002-360_armsit_com-database.sql.gz         1.5MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240203_130002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-03 13:00:04.129051
+Config  : ./360.armsit.com/private/backups/20240203_130002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240203_130002-360_armsit_com-database.sql.gz         1.5MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240203_190002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-03 19:00:04.103252
+Config  : ./360.armsit.com/private/backups/20240203_190002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240203_190002-360_armsit_com-database.sql.gz         1.5MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240204_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-04 01:00:03.667882
+Config  : ./360.armsit.com/private/backups/20240204_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240204_010002-360_armsit_com-database.sql.gz         1.6MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240204_070001-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-04 07:00:03.226871
+Config  : ./360.armsit.com/private/backups/20240204_070001-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240204_070001-360_armsit_com-database.sql.gz         1.6MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240204_130002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-04 13:00:03.747100
+Config  : ./360.armsit.com/private/backups/20240204_130002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240204_130002-360_armsit_com-database.sql.gz         1.6MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240204_190002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-04 19:00:03.668130
+Config  : ./360.armsit.com/private/backups/20240204_190002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240204_190002-360_armsit_com-database.sql.gz         1.6MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240205_010001-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-05 01:00:03.209788
+Config  : ./360.armsit.com/private/backups/20240205_010001-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240205_010001-360_armsit_com-database.sql.gz         1.6MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240205_070002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-05 07:00:03.838056
+Config  : ./360.armsit.com/private/backups/20240205_070002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240205_070002-360_armsit_com-database.sql.gz         1.6MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240205_130002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-05 13:00:03.398855
+Config  : ./360.armsit.com/private/backups/20240205_130002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240205_130002-360_armsit_com-database.sql.gz         1.6MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240205_190003-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-05 19:00:04.336607
+Config  : ./360.armsit.com/private/backups/20240205_190003-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240205_190003-360_armsit_com-database.sql.gz         1.6MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240206_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-06 01:00:03.899536
+Config  : ./360.armsit.com/private/backups/20240206_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240206_010002-360_armsit_com-database.sql.gz         1.6MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240206_070002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-06 07:00:03.451237
+Config  : ./360.armsit.com/private/backups/20240206_070002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240206_070002-360_armsit_com-database.sql.gz         1.6MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240206_130002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-06 13:00:03.993253
+Config  : ./360.armsit.com/private/backups/20240206_130002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240206_130002-360_armsit_com-database.sql.gz         1.6MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240206_190002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-06 19:00:03.963882
+Config  : ./360.armsit.com/private/backups/20240206_190002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240206_190002-360_armsit_com-database.sql.gz         1.6MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240207_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-07 01:00:03.528188
+Config  : ./360.armsit.com/private/backups/20240207_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240207_010002-360_armsit_com-database.sql.gz         1.6MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240207_070003-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-07 07:00:05.391645
+Config  : ./360.armsit.com/private/backups/20240207_070003-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240207_070003-360_armsit_com-database.sql.gz         1.6MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240207_130002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-07 13:00:04.000275
+Config  : ./360.armsit.com/private/backups/20240207_130002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240207_130002-360_armsit_com-database.sql.gz         1.6MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240207_190002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-07 19:00:03.954416
+Config  : ./360.armsit.com/private/backups/20240207_190002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240207_190002-360_armsit_com-database.sql.gz         1.6MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240208_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-08 01:00:03.536365
+Config  : ./360.armsit.com/private/backups/20240208_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240208_010002-360_armsit_com-database.sql.gz         1.7MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240208_070002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-08 07:00:04.100200
+Config  : ./360.armsit.com/private/backups/20240208_070002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240208_070002-360_armsit_com-database.sql.gz         1.7MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240208_130002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-08 13:00:03.661385
+Config  : ./360.armsit.com/private/backups/20240208_130002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240208_130002-360_armsit_com-database.sql.gz         1.7MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240208_190002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-08 19:00:03.740607
+Config  : ./360.armsit.com/private/backups/20240208_190002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240208_190002-360_armsit_com-database.sql.gz         1.7MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240209_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-09 01:00:03.323313
+Config  : ./360.armsit.com/private/backups/20240209_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240209_010002-360_armsit_com-database.sql.gz         1.7MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240209_070003-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-09 07:00:05.454248
+Config  : ./360.armsit.com/private/backups/20240209_070003-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240209_070003-360_armsit_com-database.sql.gz         1.7MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240209_130002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-09 13:00:04.109972
+Config  : ./360.armsit.com/private/backups/20240209_130002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240209_130002-360_armsit_com-database.sql.gz         1.7MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240209_190002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-09 19:00:04.052500
+Config  : ./360.armsit.com/private/backups/20240209_190002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240209_190002-360_armsit_com-database.sql.gz         1.7MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240210_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-10 01:00:03.651906
+Config  : ./360.armsit.com/private/backups/20240210_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240210_010002-360_armsit_com-database.sql.gz         1.7MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240210_070001-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-10 07:00:03.249837
+Config  : ./360.armsit.com/private/backups/20240210_070001-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240210_070001-360_armsit_com-database.sql.gz         1.7MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240210_130002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-10 13:00:03.884781
+Config  : ./360.armsit.com/private/backups/20240210_130002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240210_130002-360_armsit_com-database.sql.gz         1.7MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240210_190002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-10 19:00:03.914274
+Config  : ./360.armsit.com/private/backups/20240210_190002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240210_190002-360_armsit_com-database.sql.gz         1.7MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240211_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-11 01:00:03.510933
+Config  : ./360.armsit.com/private/backups/20240211_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240211_010002-360_armsit_com-database.sql.gz         1.7MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240211_070002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-11 07:00:04.101247
+Config  : ./360.armsit.com/private/backups/20240211_070002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240211_070002-360_armsit_com-database.sql.gz         1.7MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240211_130002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-11 13:00:03.673296
+Config  : ./360.armsit.com/private/backups/20240211_130002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240211_130002-360_armsit_com-database.sql.gz         1.7MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240211_190002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-11 19:00:03.601536
+Config  : ./360.armsit.com/private/backups/20240211_190002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240211_190002-360_armsit_com-database.sql.gz         1.7MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240212_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-12 01:00:04.197090
+Config  : ./360.armsit.com/private/backups/20240212_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240212_010002-360_armsit_com-database.sql.gz         1.7MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240212_070002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-12 07:00:03.780090
+Config  : ./360.armsit.com/private/backups/20240212_070002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240212_070002-360_armsit_com-database.sql.gz         1.7MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240212_130002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-12 13:00:03.343364
+Config  : ./360.armsit.com/private/backups/20240212_130002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240212_130002-360_armsit_com-database.sql.gz         1.7MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240212_190002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-12 19:00:04.204134
+Config  : ./360.armsit.com/private/backups/20240212_190002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240212_190002-360_armsit_com-database.sql.gz         1.7MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240213_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-13 01:00:03.799051
+Config  : ./360.armsit.com/private/backups/20240213_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240213_010002-360_armsit_com-database.sql.gz         1.7MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240213_070002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-13 07:00:03.403028
+Config  : ./360.armsit.com/private/backups/20240213_070002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240213_070002-360_armsit_com-database.sql.gz         1.7MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240213_130002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-13 13:00:03.981294
+Config  : ./360.armsit.com/private/backups/20240213_130002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240213_130002-360_armsit_com-database.sql.gz         1.8MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240213_190002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-13 19:00:03.927308
+Config  : ./360.armsit.com/private/backups/20240213_190002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240213_190002-360_armsit_com-database.sql.gz         1.8MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240214_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-14 01:00:03.521515
+Config  : ./360.armsit.com/private/backups/20240214_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240214_010002-360_armsit_com-database.sql.gz         1.8MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240214_070002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-14 07:00:04.112947
+Config  : ./360.armsit.com/private/backups/20240214_070002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240214_070002-360_armsit_com-database.sql.gz         1.8MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240214_130003-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-14 13:00:05.114503
+Config  : ./360.armsit.com/private/backups/20240214_130003-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240214_130003-360_armsit_com-database.sql.gz         1.8MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240214_190003-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-14 19:00:06.093087
+Config  : ./360.armsit.com/private/backups/20240214_190003-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240214_190003-360_armsit_com-database.sql.gz         1.8MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240215_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-15 01:00:03.903949
+Config  : ./360.armsit.com/private/backups/20240215_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240215_010002-360_armsit_com-database.sql.gz         2.5MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240215_070002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-15 07:00:03.671376
+Config  : ./360.armsit.com/private/backups/20240215_070002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240215_070002-360_armsit_com-database.sql.gz         2.5MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240215_130001-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-15 13:00:03.411666
+Config  : ./360.armsit.com/private/backups/20240215_130001-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240215_130001-360_armsit_com-database.sql.gz         2.5MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240215_190003-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-15 19:00:04.583381
+Config  : ./360.armsit.com/private/backups/20240215_190003-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240215_190003-360_armsit_com-database.sql.gz         2.5MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240216_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-16 01:00:04.348678
+Config  : ./360.armsit.com/private/backups/20240216_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240216_010002-360_armsit_com-database.sql.gz         2.6MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240216_070002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-16 07:00:04.098939
+Config  : ./360.armsit.com/private/backups/20240216_070002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240216_070002-360_armsit_com-database.sql.gz         2.6MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240216_130002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-16 13:00:03.879035
+Config  : ./360.armsit.com/private/backups/20240216_130002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240216_130002-360_armsit_com-database.sql.gz         2.6MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240216_190002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-16 19:00:03.984591
+Config  : ./360.armsit.com/private/backups/20240216_190002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240216_190002-360_armsit_com-database.sql.gz         2.6MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240217_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-17 01:00:03.760051
+Config  : ./360.armsit.com/private/backups/20240217_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240217_010002-360_armsit_com-database.sql.gz         2.6MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240217_070002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-17 07:00:03.521737
+Config  : ./360.armsit.com/private/backups/20240217_070002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240217_070002-360_armsit_com-database.sql.gz         2.6MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240217_130002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-17 13:00:04.279833
+Config  : ./360.armsit.com/private/backups/20240217_130002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240217_130002-360_armsit_com-database.sql.gz         2.6MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240217_190003-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-17 19:00:04.558139
+Config  : ./360.armsit.com/private/backups/20240217_190003-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240217_190003-360_armsit_com-database.sql.gz         2.6MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240218_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-18 01:00:04.321486
+Config  : ./360.armsit.com/private/backups/20240218_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240218_010002-360_armsit_com-database.sql.gz         2.6MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240218_070002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-18 07:00:04.105814
+Config  : ./360.armsit.com/private/backups/20240218_070002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240218_070002-360_armsit_com-database.sql.gz         2.6MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240218_130002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-18 13:00:03.869299
+Config  : ./360.armsit.com/private/backups/20240218_130002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240218_130002-360_armsit_com-database.sql.gz         2.6MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240218_190002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-18 19:00:04.004496
+Config  : ./360.armsit.com/private/backups/20240218_190002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240218_190002-360_armsit_com-database.sql.gz         2.6MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240219_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-19 01:00:03.775374
+Config  : ./360.armsit.com/private/backups/20240219_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240219_010002-360_armsit_com-database.sql.gz         2.6MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240219_070002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-19 07:00:03.559972
+Config  : ./360.armsit.com/private/backups/20240219_070002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240219_070002-360_armsit_com-database.sql.gz         2.6MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240219_130002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-19 13:00:04.329845
+Config  : ./360.armsit.com/private/backups/20240219_130002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240219_130002-360_armsit_com-database.sql.gz         2.6MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240219_190002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-19 19:00:04.459711
+Config  : ./360.armsit.com/private/backups/20240219_190002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240219_190002-360_armsit_com-database.sql.gz         2.6MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240220_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-20 01:00:04.222856
+Config  : ./360.armsit.com/private/backups/20240220_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240220_010002-360_armsit_com-database.sql.gz         2.6MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240220_070002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-20 07:00:03.996548
+Config  : ./360.armsit.com/private/backups/20240220_070002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240220_070002-360_armsit_com-database.sql.gz         2.6MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240220_130002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-20 13:00:03.765324
+Config  : ./360.armsit.com/private/backups/20240220_130002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240220_130002-360_armsit_com-database.sql.gz         2.6MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240220_190002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-20 19:00:03.899591
+Config  : ./360.armsit.com/private/backups/20240220_190002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240220_190002-360_armsit_com-database.sql.gz         2.6MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240221_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-21 01:00:03.684809
+Config  : ./360.armsit.com/private/backups/20240221_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240221_010002-360_armsit_com-database.sql.gz         2.6MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240221_070001-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-21 07:00:03.484208
+Config  : ./360.armsit.com/private/backups/20240221_070001-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240221_070001-360_armsit_com-database.sql.gz         2.6MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240221_130002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-21 13:00:04.250647
+Config  : ./360.armsit.com/private/backups/20240221_130002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240221_130002-360_armsit_com-database.sql.gz         2.6MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240221_190002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-21 19:00:04.372670
+Config  : ./360.armsit.com/private/backups/20240221_190002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240221_190002-360_armsit_com-database.sql.gz         2.7MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240222_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-22 01:00:04.141709
+Config  : ./360.armsit.com/private/backups/20240222_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240222_010002-360_armsit_com-database.sql.gz         2.7MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240222_070002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-22 07:00:03.907259
+Config  : ./360.armsit.com/private/backups/20240222_070002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240222_070002-360_armsit_com-database.sql.gz         2.7MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240222_130002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-22 13:00:03.682325
+Config  : ./360.armsit.com/private/backups/20240222_130002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240222_130002-360_armsit_com-database.sql.gz         2.7MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240222_190002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-22 19:00:03.795246
+Config  : ./360.armsit.com/private/backups/20240222_190002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240222_190002-360_armsit_com-database.sql.gz         2.7MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240223_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-23 01:00:03.573367
+Config  : ./360.armsit.com/private/backups/20240223_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240223_010002-360_armsit_com-database.sql.gz         2.7MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240223_070002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-23 07:00:04.379936
+Config  : ./360.armsit.com/private/backups/20240223_070002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240223_070002-360_armsit_com-database.sql.gz         2.7MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240223_130002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-23 13:00:04.165952
+Config  : ./360.armsit.com/private/backups/20240223_130002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240223_130002-360_armsit_com-database.sql.gz         2.7MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240223_190002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-23 19:00:04.311760
+Config  : ./360.armsit.com/private/backups/20240223_190002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240223_190002-360_armsit_com-database.sql.gz         2.7MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240228_190002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-28 19:00:04.322841
+Config  : ./360.armsit.com/private/backups/20240228_190002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240228_190002-360_armsit_com-database.sql.gz         2.7MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240229_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-29 01:00:04.035982
+Config  : ./360.armsit.com/private/backups/20240229_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240229_010002-360_armsit_com-database.sql.gz         2.7MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240229_070002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-29 07:00:03.753519
+Config  : ./360.armsit.com/private/backups/20240229_070002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240229_070002-360_armsit_com-database.sql.gz         2.7MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240229_130001-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-29 13:00:03.462811
+Config  : ./360.armsit.com/private/backups/20240229_130001-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240229_130001-360_armsit_com-database.sql.gz         2.7MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240229_190003-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-02-29 19:00:04.608552
+Config  : ./360.armsit.com/private/backups/20240229_190003-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240229_190003-360_armsit_com-database.sql.gz         2.7MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240301_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-01 01:00:04.319034
+Config  : ./360.armsit.com/private/backups/20240301_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240301_010002-360_armsit_com-database.sql.gz         2.7MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240301_070002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-01 07:00:04.053915
+Config  : ./360.armsit.com/private/backups/20240301_070002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240301_070002-360_armsit_com-database.sql.gz         2.7MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240301_130002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-01 13:00:03.763728
+Config  : ./360.armsit.com/private/backups/20240301_130002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240301_130002-360_armsit_com-database.sql.gz         2.8MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240301_190002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-01 19:00:03.834094
+Config  : ./360.armsit.com/private/backups/20240301_190002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240301_190002-360_armsit_com-database.sql.gz         2.8MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240302_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-02 01:00:03.576415
+Config  : ./360.armsit.com/private/backups/20240302_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240302_010002-360_armsit_com-database.sql.gz         2.8MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240302_070002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-02 07:00:04.319013
+Config  : ./360.armsit.com/private/backups/20240302_070002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240302_070002-360_armsit_com-database.sql.gz         2.8MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240302_130002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-02 13:00:04.043383
+Config  : ./360.armsit.com/private/backups/20240302_130002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240302_130002-360_armsit_com-database.sql.gz         2.8MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240302_190002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-02 19:00:04.330998
+Config  : ./360.armsit.com/private/backups/20240302_190002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240302_190002-360_armsit_com-database.sql.gz         2.8MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240303_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-03 01:00:04.080274
+Config  : ./360.armsit.com/private/backups/20240303_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240303_010002-360_armsit_com-database.sql.gz         2.8MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240303_070002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-03 07:00:03.826463
+Config  : ./360.armsit.com/private/backups/20240303_070002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240303_070002-360_armsit_com-database.sql.gz         2.8MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240303_130002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-03 13:00:03.552133
+Config  : ./360.armsit.com/private/backups/20240303_130002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240303_130002-360_armsit_com-database.sql.gz         2.8MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240303_190003-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-03 19:00:04.648552
+Config  : ./360.armsit.com/private/backups/20240303_190003-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240303_190003-360_armsit_com-database.sql.gz         2.8MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240304_010003-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-04 01:00:05.820273
+Config  : ./360.armsit.com/private/backups/20240304_010003-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240304_010003-360_armsit_com-database.sql.gz         2.8MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240304_070002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-04 07:00:03.594482
+Config  : ./360.armsit.com/private/backups/20240304_070002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240304_070002-360_armsit_com-database.sql.gz         2.8MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240304_130002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-04 13:00:04.349289
+Config  : ./360.armsit.com/private/backups/20240304_130002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240304_130002-360_armsit_com-database.sql.gz         2.9MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240304_190002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-04 19:00:04.440506
+Config  : ./360.armsit.com/private/backups/20240304_190002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240304_190002-360_armsit_com-database.sql.gz         2.9MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240305_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-05 01:00:04.187758
+Config  : ./360.armsit.com/private/backups/20240305_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240305_010002-360_armsit_com-database.sql.gz         2.9MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240305_070002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-05 07:00:03.948407
+Config  : ./360.armsit.com/private/backups/20240305_070002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240305_070002-360_armsit_com-database.sql.gz         2.9MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240305_130002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-05 13:00:03.685470
+Config  : ./360.armsit.com/private/backups/20240305_130002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240305_130002-360_armsit_com-database.sql.gz         2.9MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240305_190002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-05 19:00:03.776966
+Config  : ./360.armsit.com/private/backups/20240305_190002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240305_190002-360_armsit_com-database.sql.gz         2.9MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240306_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-06 01:00:03.510861
+Config  : ./360.armsit.com/private/backups/20240306_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240306_010002-360_armsit_com-database.sql.gz         2.9MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240306_070002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-06 07:00:04.261891
+Config  : ./360.armsit.com/private/backups/20240306_070002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240306_070002-360_armsit_com-database.sql.gz         2.9MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240306_130002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-06 13:00:04.010671
+Config  : ./360.armsit.com/private/backups/20240306_130002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240306_130002-360_armsit_com-database.sql.gz         2.9MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240306_190002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-06 19:00:04.181473
+Config  : ./360.armsit.com/private/backups/20240306_190002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240306_190002-360_armsit_com-database.sql.gz         2.9MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240307_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-07 01:00:03.920439
+Config  : ./360.armsit.com/private/backups/20240307_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240307_010002-360_armsit_com-database.sql.gz         2.9MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240307_070002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-07 07:00:03.681875
+Config  : ./360.armsit.com/private/backups/20240307_070002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240307_070002-360_armsit_com-database.sql.gz         2.9MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240307_130001-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-07 13:00:03.435444
+Config  : ./360.armsit.com/private/backups/20240307_130001-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240307_130001-360_armsit_com-database.sql.gz         2.9MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240307_190003-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-07 19:00:04.547305
+Config  : ./360.armsit.com/private/backups/20240307_190003-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240307_190003-360_armsit_com-database.sql.gz         2.9MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240308_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-08 01:00:04.301616
+Config  : ./360.armsit.com/private/backups/20240308_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240308_010002-360_armsit_com-database.sql.gz         2.9MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240308_070002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-08 07:00:04.085752
+Config  : ./360.armsit.com/private/backups/20240308_070002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240308_070002-360_armsit_com-database.sql.gz         3.0MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240308_130002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-08 13:00:03.845531
+Config  : ./360.armsit.com/private/backups/20240308_130002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240308_130002-360_armsit_com-database.sql.gz         3.0MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240308_190002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-08 19:00:03.961682
+Config  : ./360.armsit.com/private/backups/20240308_190002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240308_190002-360_armsit_com-database.sql.gz         3.0MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240309_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-09 01:00:03.724321
+Config  : ./360.armsit.com/private/backups/20240309_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240309_010002-360_armsit_com-database.sql.gz         3.0MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240309_070002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-09 07:00:05.003858
+Config  : ./360.armsit.com/private/backups/20240309_070002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240309_070002-360_armsit_com-database.sql.gz         3.0MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240309_130002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-09 13:00:03.809372
+Config  : ./360.armsit.com/private/backups/20240309_130002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240309_130002-360_armsit_com-database.sql.gz         3.0MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240309_190002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-09 19:00:04.113076
+Config  : ./360.armsit.com/private/backups/20240309_190002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240309_190002-360_armsit_com-database.sql.gz         3.0MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240310_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-10 01:00:03.889901
+Config  : ./360.armsit.com/private/backups/20240310_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240310_010002-360_armsit_com-database.sql.gz         3.0MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240310_070002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-10 07:00:03.684506
+Config  : ./360.armsit.com/private/backups/20240310_070002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240310_070002-360_armsit_com-database.sql.gz         3.0MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240310_130001-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-10 13:00:03.446895
+Config  : ./360.armsit.com/private/backups/20240310_130001-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240310_130001-360_armsit_com-database.sql.gz         3.0MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240310_190002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-10 19:00:04.566246
+Config  : ./360.armsit.com/private/backups/20240310_190002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240310_190002-360_armsit_com-database.sql.gz         3.0MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240311_010002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-11 01:00:04.349336
+Config  : ./360.armsit.com/private/backups/20240311_010002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240311_010002-360_armsit_com-database.sql.gz         3.0MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240311_070002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-11 07:00:04.147558
+Config  : ./360.armsit.com/private/backups/20240311_070002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240311_070002-360_armsit_com-database.sql.gz         3.0MiB
+Backup for Site 360.armsit.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _05718f051f69a257 -p********** _05718f051f69a257 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./360.armsit.com/private/backups/20240311_130002-360_armsit_com-database.sql.gz
+
+Backup Summary for 360.armsit.com at 2024-03-11 13:00:03.921924
+Config  : ./360.armsit.com/private/backups/20240311_130002-360_armsit_com-site_config_backup.json 375.0B
+Database: ./360.armsit.com/private/backups/20240311_130002-360_armsit_com-database.sql.gz         3.0MiB
+Backup for Site 360.armsit.com has been successfully completed

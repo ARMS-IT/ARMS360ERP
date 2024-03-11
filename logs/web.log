@@ -1,0 +1,195 @@
+Updating Dashboard for frappe
+Updating Dashboard for frappe
+Updating Dashboard for frappe
+Updating Dashboard for erpnext
+Updating Dashboard for hrms
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 95, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 191, in init_request
+    frappe.local.http_request = HTTPRequest()
+  File "apps/frappe/frappe/auth.py", line 40, in __init__
+    self.set_session()
+  File "apps/frappe/frappe/auth.py", line 76, in set_session
+    frappe.local.login_manager = LoginManager()
+  File "apps/frappe/frappe/auth.py", line 112, in __init__
+    if self.login() is False:
+  File "apps/frappe/frappe/auth.py", line 137, in login
+    self.authenticate(user=user, pwd=pwd)
+  File "apps/frappe/frappe/auth.py", line 259, in authenticate
+    self.fail("Invalid login credentials", user=user.name)
+  File "apps/frappe/frappe/auth.py", line 304, in fail
+    raise frappe.AuthenticationError
+frappe.exceptions.AuthenticationError
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 95, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 191, in init_request
+    frappe.local.http_request = HTTPRequest()
+  File "apps/frappe/frappe/auth.py", line 40, in __init__
+    self.set_session()
+  File "apps/frappe/frappe/auth.py", line 76, in set_session
+    frappe.local.login_manager = LoginManager()
+  File "apps/frappe/frappe/auth.py", line 112, in __init__
+    if self.login() is False:
+  File "apps/frappe/frappe/auth.py", line 137, in login
+    self.authenticate(user=user, pwd=pwd)
+  File "apps/frappe/frappe/auth.py", line 259, in authenticate
+    self.fail("Invalid login credentials", user=user.name)
+  File "apps/frappe/frappe/auth.py", line 304, in fail
+    raise frappe.AuthenticationError
+frappe.exceptions.AuthenticationError
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 95, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 191, in init_request
+    frappe.local.http_request = HTTPRequest()
+  File "apps/frappe/frappe/auth.py", line 40, in __init__
+    self.set_session()
+  File "apps/frappe/frappe/auth.py", line 76, in set_session
+    frappe.local.login_manager = LoginManager()
+  File "apps/frappe/frappe/auth.py", line 112, in __init__
+    if self.login() is False:
+  File "apps/frappe/frappe/auth.py", line 137, in login
+    self.authenticate(user=user, pwd=pwd)
+  File "apps/frappe/frappe/auth.py", line 259, in authenticate
+    self.fail("Invalid login credentials", user=user.name)
+  File "apps/frappe/frappe/auth.py", line 304, in fail
+    raise frappe.AuthenticationError
+frappe.exceptions.AuthenticationError
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 95, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 191, in init_request
+    frappe.local.http_request = HTTPRequest()
+  File "apps/frappe/frappe/auth.py", line 40, in __init__
+    self.set_session()
+  File "apps/frappe/frappe/auth.py", line 76, in set_session
+    frappe.local.login_manager = LoginManager()
+  File "apps/frappe/frappe/auth.py", line 112, in __init__
+    if self.login() is False:
+  File "apps/frappe/frappe/auth.py", line 137, in login
+    self.authenticate(user=user, pwd=pwd)
+  File "apps/frappe/frappe/auth.py", line 248, in authenticate
+    self.fail("Invalid login credentials", user=_raw_user_name)
+  File "apps/frappe/frappe/auth.py", line 304, in fail
+    raise frappe.AuthenticationError
+frappe.exceptions.AuthenticationError
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 95, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 191, in init_request
+    frappe.local.http_request = HTTPRequest()
+  File "apps/frappe/frappe/auth.py", line 40, in __init__
+    self.set_session()
+  File "apps/frappe/frappe/auth.py", line 76, in set_session
+    frappe.local.login_manager = LoginManager()
+  File "apps/frappe/frappe/auth.py", line 112, in __init__
+    if self.login() is False:
+  File "apps/frappe/frappe/auth.py", line 137, in login
+    self.authenticate(user=user, pwd=pwd)
+  File "apps/frappe/frappe/auth.py", line 248, in authenticate
+    self.fail("Invalid login credentials", user=_raw_user_name)
+  File "apps/frappe/frappe/auth.py", line 304, in fail
+    raise frappe.AuthenticationError
+frappe.exceptions.AuthenticationError
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 95, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 191, in init_request
+    frappe.local.http_request = HTTPRequest()
+  File "apps/frappe/frappe/auth.py", line 40, in __init__
+    self.set_session()
+  File "apps/frappe/frappe/auth.py", line 76, in set_session
+    frappe.local.login_manager = LoginManager()
+  File "apps/frappe/frappe/auth.py", line 112, in __init__
+    if self.login() is False:
+  File "apps/frappe/frappe/auth.py", line 137, in login
+    self.authenticate(user=user, pwd=pwd)
+  File "apps/frappe/frappe/auth.py", line 259, in authenticate
+    self.fail("Invalid login credentials", user=user.name)
+  File "apps/frappe/frappe/auth.py", line 304, in fail
+    raise frappe.AuthenticationError
+frappe.exceptions.AuthenticationError
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 95, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 191, in init_request
+    frappe.local.http_request = HTTPRequest()
+  File "apps/frappe/frappe/auth.py", line 40, in __init__
+    self.set_session()
+  File "apps/frappe/frappe/auth.py", line 76, in set_session
+    frappe.local.login_manager = LoginManager()
+  File "apps/frappe/frappe/auth.py", line 112, in __init__
+    if self.login() is False:
+  File "apps/frappe/frappe/auth.py", line 137, in login
+    self.authenticate(user=user, pwd=pwd)
+  File "apps/frappe/frappe/auth.py", line 248, in authenticate
+    self.fail("Invalid login credentials", user=_raw_user_name)
+  File "apps/frappe/frappe/auth.py", line 304, in fail
+    raise frappe.AuthenticationError
+frappe.exceptions.AuthenticationError
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 95, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 191, in init_request
+    frappe.local.http_request = HTTPRequest()
+  File "apps/frappe/frappe/auth.py", line 40, in __init__
+    self.set_session()
+  File "apps/frappe/frappe/auth.py", line 76, in set_session
+    frappe.local.login_manager = LoginManager()
+  File "apps/frappe/frappe/auth.py", line 112, in __init__
+    if self.login() is False:
+  File "apps/frappe/frappe/auth.py", line 137, in login
+    self.authenticate(user=user, pwd=pwd)
+  File "apps/frappe/frappe/auth.py", line 248, in authenticate
+    self.fail("Invalid login credentials", user=_raw_user_name)
+  File "apps/frappe/frappe/auth.py", line 304, in fail
+    raise frappe.AuthenticationError
+frappe.exceptions.AuthenticationError
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 95, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 191, in init_request
+    frappe.local.http_request = HTTPRequest()
+  File "apps/frappe/frappe/auth.py", line 40, in __init__
+    self.set_session()
+  File "apps/frappe/frappe/auth.py", line 76, in set_session
+    frappe.local.login_manager = LoginManager()
+  File "apps/frappe/frappe/auth.py", line 112, in __init__
+    if self.login() is False:
+  File "apps/frappe/frappe/auth.py", line 137, in login
+    self.authenticate(user=user, pwd=pwd)
+  File "apps/frappe/frappe/auth.py", line 259, in authenticate
+    self.fail("Invalid login credentials", user=user.name)
+  File "apps/frappe/frappe/auth.py", line 304, in fail
+    raise frappe.AuthenticationError
+frappe.exceptions.AuthenticationError
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 95, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 191, in init_request
+    frappe.local.http_request = HTTPRequest()
+  File "apps/frappe/frappe/auth.py", line 40, in __init__
+    self.set_session()
+  File "apps/frappe/frappe/auth.py", line 76, in set_session
+    frappe.local.login_manager = LoginManager()
+  File "apps/frappe/frappe/auth.py", line 112, in __init__
+    if self.login() is False:
+  File "apps/frappe/frappe/auth.py", line 137, in login
+    self.authenticate(user=user, pwd=pwd)
+  File "apps/frappe/frappe/auth.py", line 259, in authenticate
+    self.fail("Invalid login credentials", user=user.name)
+  File "apps/frappe/frappe/auth.py", line 304, in fail
+    raise frappe.AuthenticationError
+frappe.exceptions.AuthenticationError
+

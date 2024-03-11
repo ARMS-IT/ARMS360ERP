@@ -1,0 +1,11 @@
+{
+ "db_name": "_05718f051f69a257",
+ "db_password": "gR6Hp9naZx7s5sxv",
+ "db_type": "mariadb",
+ "encryption_key": "ur6mDmiaP0tOaPgV-FSNnx8IybRmJP8P7fAnJ-cWzo0=",
+ "ssl_certificate": "/etc/letsencrypt/live/360.armsit.com/fullchain.pem",
+ "ssl_certificate_key": "/etc/letsencrypt/live/360.armsit.com/privkey.pem",
+ "user_type_doctype_limit": {
+  "employee_self_service": 30
+ }
+}

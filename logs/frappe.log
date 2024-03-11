@@ -1,0 +1,773 @@
+2024-02-15 00:05:42,702 ERROR frappe New Exception collected in error log
+Site: 360.armsit.com
+Form Dict: {'data': [{'name': 'CRM-LEAD-2024-00001', 'creation': '2024-01-23 18:45:47.015578', 'modified': '2024-02-14 17:40:36.494146', 'modified_by': 'rayoub@armsit.com', 'owner': 'rayoub@armsit.com', 'docstatus': 0, 'idx': 0, 'naming_series': 'CRM-LEAD-.YYYY.-', 'salutation': 0, 'first_name': 'Al Ashoury Industry Group', 'middle_name': 0, 'last_name': 0, 'lead_name': 'Al Ashoury Industry Group', 'job_title': 0, 'gender': 0, 'source': 0, 'lead_owner': 'rayoub@armsit.com', 'status': 'Open', 'customer': 0, 'type': 0, 'request_type': 0, 'email_id': 0, 'website': 0, 'mobile_no': 0, 'whatsapp_no': 0, 'phone': 0, 'phone_ext': 0, 'company_name': 0, 'no_of_employees': '1-10', 'annual_revenue': 38000, 'industry': 0, 'market_segment': 0, 'territory': 0, 'fax': 0, 'city': 0, 'state': 0, 'country': 'Saudi Arabia', 'qualification_status': 'Unqualified', 'qualified_by': 0, 'qualified_on': 0, 'campaign_name': 0, 'company': 'ARMS For InformationTechnology (Demo)', 'language': 'en', 'image': 0, 'title': 'Al Ashoury Industry Group', 'disabled': 0, 'unsubscribed': 0, 'blog_subscriber': 0, '_user_tags': 0, '_comments': 0, '_assign': '["rabukhater@armsit.com"]', '_liked_by': 0, 'custom_audit': 30000, 'custom_z___t': 8000, 'custom_vat': 0, 'custom_off_plan_sales': 0, 'custom_z_cases': 0, 'custom_v_cases': 0, 'custom_zdp___sp': 0, 'custom_vdp_sp': 0, 'custom_lc': 0, 'custom_actuarial': 0, 'custom_ecl': 0, 'custom_bk': 0, 'custom_asp': 0, 'custom_group': 0, 'custom_director__manager': 0, 'custom_hunting': 'HK', 'custom_v_team': 'HK', 'custom_follow_up___month_': '2023-05-01', 'custom_status_2': 'Profile'}, {'name': 'CRM-LEAD-2024-00002', 'creation': '2024-02-14 17:41:41.366220', 'modified': '2024-02-14 18:35:02.258449', 'modified_by': 'rayoub@armsit.com', 'owner': 'rayoub@armsit.com', 'docstatus': 0, 'idx': 1, 'naming_series': 'CRM-LEAD-.YYYY.-', 'salutation': 0, 'first_name': 'Nahaz Investment', 'middle_name': 0, 'last_name': 0, 'lead_name': 'Nahaz Investment', 'job_title': 0, 'gender': 0, 'source': 0, 'lead_owner': 'rayoub@armsit.com', 'status': 'Interested', 'customer': 0, 'type': 0, 'request_type': 0, 'email_id': 0, 'website': 0, 'mobile_no': 0, 'whatsapp_no': 0, 'phone': 0, 'phone_ext': 0, 'company_name': 0, 'no_of_employees': '1-10', 'annual_revenue': 38000, 'industry': 0, 'market_segment': 0, 'territory': 0, 'fax': 0, 'city': 0, 'state': 0, 'country': 'Saudi Arabia', 'qualification_status': 'Unqualified', 'qualified_by': 0, 'qualified_on': 0, 'campaign_name': 0, 'company': 'ARMS For InformationTechnology (Demo)', 'language': 'en', 'image': 0, 'title': 'Nahaz Investment', 'disabled': 0, 'unsubscribed': 0, 'blog_subscriber': 0, '_user_tags': 0, '_comments': 0, '_assign': None, '_liked_by': 0, 'custom_audit': 30000, 'custom_z___t': 8000, 'custom_vat': 0, 'custom_off_plan_sales': 0, 'custom_z_cases': 0, 'custom_v_cases': 0, 'custom_zdp___sp': 0, 'custom_vdp_sp': 0, 'custom_lc': 0, 'custom_actuarial': 0, 'custom_ecl': 0, 'custom_bk': 0, 'custom_asp': 0, 'custom_group': 0, 'custom_director__manager': 0, 'custom_hunting': 'HK', 'custom_v_team': 'HK', 'custom_follow_up___month_': '2023-05-01', 'custom_status_2': 'Prior year Transfare'}, {'name': 'CRM-LEAD-2024-00003', 'creation': '2024-02-14 17:42:14.541640', 'modified': '2024-02-14 18:34:43.942070', 'modified_by': 'rayoub@armsit.com', 'owner': 'rayoub@armsit.com', 'docstatus': 0, 'idx': 1, 'naming_series': 'CRM-LEAD-.YYYY.-', 'salutation': 0, 'first_name': 'National Water Woprks Co', 'middle_name': 0, 'last_name': 0, 'lead_name': 'National Water Woprks Co', 'job_title': 0, 'gender': 0, 'source': 0, 'lead_owner': 'rayoub@armsit.com', 'status': 'Lost Quotation', 'customer': 0, 'type': 0, 'request_type': 0, 'email_id': 0, 'website': 0, 'mobile_no': 0, 'whatsapp_no': 0, 'phone': 0, 'phone_ext': 0, 'company_name': 0, 'no_of_employees': '1-10', 'annual_revenue': 33000, 'industry': 0, 'market_segment': 0, 'territory': 0, 'fax': 0, 'city': 0, 'state': 0, 'country': 'Saudi Arabia', 'qualification_status': 'Unqualified', 'qualified_by': 0, 'qualified_on': 0, 'campaign_name': 0, 'company': 'ARMS For InformationTechnology (Demo)', 'language': 'en', 'image': 0, 'title': 'National Water Woprks Co', 'disabled': 0, 'unsubscribed': 0, 'blog_subscriber': 0, '_user_tags': 0, '_comments': 0, '_assign': None, '_liked_by': 0, 'custom_audit': 25000, 'custom_z___t': 8000, 'custom_vat': 0, 'custom_off_plan_sales': 0, 'custom_z_cases': 0, 'custom_v_cases': 0, 'custom_zdp___sp': 0, 'custom_vdp_sp': 0, 'custom_lc': 0, 'custom_actuarial': 0, 'custom_ecl': 0, 'custom_bk': 0, 'custom_asp': 0, 'custom_group': 0, 'custom_director__manager': 0, 'custom_hunting': 'HK', 'custom_v_team': 'HK+MS', 'custom_follow_up___month_': '2023-05-01', 'custom_status_2': 'Won'}, {'name': 'CRM-LEAD-2024-00004', 'creation': '2024-02-14 17:43:07.869912', 'modified': '2024-02-14 18:35:07.707636', 'modified_by': 'rayoub@armsit.com', 'owner': 'rayoub@armsit.com', 'docstatus': 0, 'idx': 1, 'naming_series': 'CRM-LEAD-.YYYY.-', 'salutation': 0, 'first_name': 'Gas Solutions', 'middle_name': 0, 'last_name': 0, 'lead_name': 'Gas Solutions', 'job_title': 0, 'gender': 0, 'source': 0, 'lead_owner': 'rayoub@armsit.com', 'status': 'Quotation', 'customer': 0, 'type': 0, 'request_type': 0, 'email_id': 0, 'website': 0, 'mobile_no': 0, 'whatsapp_no': 0, 'phone': 0, 'phone_ext': 0, 'company_name': 0, 'no_of_employees': '1-10', 'annual_revenue': 38000, 'industry': 0, 'market_segment': 0, 'territory': 0, 'fax': 0, 'city': 0, 'state': 0, 'country': 'Saudi Arabia', 'qualification_status': 'Unqualified', 'qualified_by': 0, 'qualified_on': 0, 'campaign_name': 0, 'company': 'ARMS For InformationTechnology (Demo)', 'language': 'en', 'image': 0, 'title': 'Gas Solutions', 'disabled': 0, 'unsubscribed': 0, 'blog_subscriber': 0, '_user_tags': 0, '_comments': 0, '_assign': None, '_liked_by': 0, 'custom_audit': 30000, 'custom_z___t': 8000, 'custom_vat': 0, 'custom_off_plan_sales': 0, 'custom_z_cases': 0, 'custom_v_cases': 0, 'custom_zdp___sp': 0, 'custom_vdp_sp': 0, 'custom_lc': 0, 'custom_actuarial': 0, 'custom_ecl': 0, 'custom_bk': 0, 'custom_asp': 0, 'custom_group': 0, 'custom_director__manager': 0, 'custom_hunting': 'HK', 'custom_v_team': 'HK', 'custom_follow_up___month_': '2023-06-01', 'custom_status_2': 'Won'}, {'name': 'CRM-LEAD-2024-00005', 'creation': '2024-02-14 17:44:03.206627', 'modified': '2024-02-14 17:44:03.206627', 'modified_by': 'rayoub@armsit.com', 'owner': 'rayoub@armsit.com', 'docstatus': 0, 'idx': 1, 'naming_series': 'CRM-LEAD-.YYYY.-', 'salutation': 0, 'first_name': 'شركة الخليج للتطوير الصناعي', 'middle_name': 0, 'last_name': 0, 'lead_name': 'شركة الخليج للتطوير الصناعي', 'job_title': 0, 'gender': 0, 'source': 0, 'lead_owner': 'rayoub@armsit.com', 'status': 'Lead', 'customer': 0, 'type': 0, 'request_type': 0, 'email_id': 0, 'website': 0, 'mobile_no': 0, 'whatsapp_no': 0, 'phone': 0, 'phone_ext': 0, 'company_name': 0, 'no_of_employees': '1-10', 'annual_revenue': 30000, 'industry': 0, 'market_segment': 0, 'territory': 0, 'fax': 0, 'city': 0, 'state': 0, 'country': 'Saudi Arabia', 'qualification_status': 'Unqualified', 'qualified_by': 0, 'qualified_on': 0, 'campaign_name': 0, 'company': 'ARMS For InformationTechnology (Demo)', 'language': 'en', 'image': 0, 'title': 'شركة الخليج للتطوير الصناعي', 'disabled': 0, 'unsubscribed': 0, 'blog_subscriber': 0, '_user_tags': 0, '_comments': 0, '_assign': None, '_liked_by': 0, 'custom_audit': 30000, 'custom_z___t': 0, 'custom_vat': 0, 'custom_off_plan_sales': 0, 'custom_z_cases': 0, 'custom_v_cases': 0, 'custom_zdp___sp': 0, 'custom_vdp_sp': 0, 'custom_lc': 0, 'custom_actuarial': 0, 'custom_ecl': 0, 'custom_bk': 0, 'custom_asp': 0, 'custom_group': 2022, 'custom_director__manager': 0, 'custom_hunting': 'HK', 'custom_v_team': 'HK', 'custom_follow_up___month_': '2023-06-01', 'custom_status_2': 'Profile'}, {'name': 'CRM-LEAD-2024-00006', 'creation': '2024-02-14 17:44:23.958349', 'modified': '2024-02-14 18:35:17.204051', 'modified_by': 'rayoub@armsit.com', 'owner': 'rayoub@armsit.com', 'docstatus': 0, 'idx': 1, 'naming_series': 'CRM-LEAD-.YYYY.-', 'salutation': 0, 'first_name': 'شركة مصنع  حياه لإنتاج شراب الفاكهة والمياه المعبأة المحدودة', 'middle_name': 0, 'last_name': 0, 'lead_name': 'شركة مصنع  حياه لإنتاج شراب الفاكهة والمياه المعبأة المحدودة', 'job_title': 0, 'gender': 0, 'source': 0, 'lead_owner': 'rayoub@armsit.com', 'status': 'Opportunity', 'customer': 0, 'type': 0, 'request_type': 0, 'email_id': 0, 'website': 0, 'mobile_no': 0, 'whatsapp_no': 0, 'phone': 0, 'phone_ext': 0, 'company_name': 0, 'no_of_employees': '1-10', 'annual_revenue': 30000, 'industry': 0, 'market_segment': 0, 'territory': 0, 'fax': 0, 'city': 0, 'state': 0, 'country': 'Saudi Arabia', 'qualification_status': 'Unqualified', 'qualified_by': 0, 'qualified_on': 0, 'campaign_name': 0, 'company': 'ARMS For InformationTechnology (Demo)', 'language': 'en', 'image': 0, 'title': 'شركة مصنع  حياه لإنتاج شراب الفاكهة والمياه المعبأة المحدودة', 'disabled': 0, 'unsubscribed': 0, 'blog_subscriber': 0, '_user_tags': 0, '_comments': 0, '_assign': None, '_liked_by': 0, 'custom_audit': 30000, 'custom_z___t': 0, 'custom_vat': 0, 'custom_off_plan_sales': 0, 'custom_z_cases': 0, 'custom_v_cases': 0, 'custom_zdp___sp': 0, 'custom_vdp_sp': 0, 'custom_lc': 0, 'custom_actuarial': 0, 'custom_ecl': 0, 'custom_bk': 0, 'custom_asp': 0, 'custom_group': 2022, 'custom_director__manager': 0, 'custom_hunting': 'HK', 'custom_v_team': 'HK', 'custom_follow_up___month_': '2023-06-01', 'custom_status_2': 'Lost-Fitt'}, {'name': 'CRM-LEAD-2024-00007', 'creation': '2024-02-14 17:44:53.497059', 'modified': '2024-02-14 17:44:53.497059', 'modified_by': 'rayoub@armsit.com', 'owner': 'rayoub@armsit.com', 'docstatus': 0, 'idx': 1, 'naming_series': 'CRM-LEAD-.YYYY.-', 'salutation': 0, 'first_name': 'شركة مصنع الزلفي لأسلاك اللحام المحدودة', 'middle_name': 0, 'last_name': 0, 'lead_name': 'شركة مصنع الزلفي لأسلاك اللحام المحدودة', 'job_title': 0, 'gender': 0, 'source': 0, 'lead_owner': 'rayoub@armsit.com', 'status': 'Lead', 'customer': 0, 'type': 0, 'request_type': 0, 'email_id': 0, 'website': 0, 'mobile_no': 0, 'whatsapp_no': 0, 'phone': 0, 'phone_ext': 0, 'company_name': 0, 'no_of_employees': '1-10', 'annual_revenue': 25000, 'industry': 0, 'market_segment': 0, 'territory': 0, 'fax': 0, 'city': 0, 'state': 0, 'country': 'Saudi Arabia', 'qualification_status': 'Unqualified', 'qualified_by': 0, 'qualified_on': 0, 'campaign_name': 0, 'company': 'ARMS For InformationTechnology (Demo)', 'language': 'en', 'image': 0, 'title': 'شركة مصنع الزلفي لأسلاك اللحام المحدودة', 'disabled': 0, 'unsubscribed': 0, 'blog_subscriber': 0, '_user_tags': 0, '_comments': 0, '_assign': None, '_liked_by': 0, 'custom_audit': 25000, 'custom_z___t': 0, 'custom_vat': 0, 'custom_off_plan_sales': 0, 'custom_z_cases': 0, 'custom_v_cases': 0, 'custom_zdp___sp': 0, 'custom_vdp_sp': 0, 'custom_lc': 0, 'custom_actuarial': 0, 'custom_ecl': 0, 'custom_bk': 0, 'custom_asp': 0, 'custom_group': 2022, 'custom_director__manager': 0, 'custom_hunting': 'HK', 'custom_v_team': 'HK', 'custom_follow_up___month_': '2023-06-01', 'custom_status_2': 'Profile'}, {'name': 'CRM-LEAD-2024-00008', 'creation': '2024-02-14 17:45:50.642358', 'modified': '2024-02-14 17:53:45.511855', 'modified_by': 'rayoub@armsit.com', 'owner': 'rayoub@armsit.com', 'docstatus': 0, 'idx': 1, 'naming_series': 'CRM-LEAD-.YYYY.-', 'salutation': 0, 'first_name': 'Jarir Group of Companies', 'middle_name': 0, 'last_name': 0, 'lead_name': 'Jarir Group of Companies', 'job_title': 0, 'gender': 0, 'source': 0, 'lead_owner': 'rayoub@armsit.com', 'status': 'Replied', 'customer': 0, 'type': 0, 'request_type': 0, 'email_id': 0, 'website': 0, 'mobile_no': 0, 'whatsapp_no': 0, 'phone': 0, 'phone_ext': 0, 'company_name': 0, 'no_of_employees': '1-10', 'annual_revenue': 1061000, 'industry': 0, 'market_segment': 0, 'territory': 0, 'fax': 0, 'city': 0, 'state': 0, 'country': 'Saudi Arabia', 'qualification_status': 'Unqualified', 'qualified_by': 0, 'qualified_on': 0, 'campaign_name': 0, 'company': 'ARMS For InformationTechnology (Demo)', 'language': 'en', 'image': 0, 'title': 'Jarir Group of Companies', 'disabled': 0, 'unsubscribed': 0, 'blog_subscriber': 0, '_user_tags': 0, '_comments': 0, '_assign': None, '_liked_by': 0, 'custom_audit': 851000, 'custom_z___t': 210000, 'custom_vat': 0, 'custom_off_plan_sales': 0, 'custom_z_cases': 0, 'custom_v_cases': 0, 'custom_zdp___sp': 0, 'custom_vdp_sp': 0, 'custom_lc': 0, 'custom_actuarial': 0, 'custom_ecl': 0, 'custom_bk': 0, 'custom_asp': 0, 'custom_group': 0, 'custom_director__manager': 0, 'custom_hunting': 'ON', 'custom_v_team': 'ON+HK', 'custom_follow_up___month_': '2023-06-01', 'custom_status_2': 'Profile'}], 'indexes': [], 'columns': [], 'values': ['custom_status_2'], 'cmd': 'insights.api.queries.pivot'}
+2024-02-15 00:07:35,707 ERROR frappe New Exception collected in error log
+Site: 360.armsit.com
+Form Dict: {'data': [{'name': 'CRM-LEAD-2024-00001', 'creation': '2024-01-23 18:45:47.015578', 'modified': '2024-02-14 17:40:36.494146', 'modified_by': 'rayoub@armsit.com', 'owner': 'rayoub@armsit.com', 'docstatus': 0, 'idx': 0, 'naming_series': 'CRM-LEAD-.YYYY.-', 'salutation': 0, 'first_name': 'Al Ashoury Industry Group', 'middle_name': 0, 'last_name': 0, 'lead_name': 'Al Ashoury Industry Group', 'job_title': 0, 'gender': 0, 'source': 0, 'lead_owner': 'rayoub@armsit.com', 'status': 'Open', 'customer': 0, 'type': 0, 'request_type': 0, 'email_id': 0, 'website': 0, 'mobile_no': 0, 'whatsapp_no': 0, 'phone': 0, 'phone_ext': 0, 'company_name': 0, 'no_of_employees': '1-10', 'annual_revenue': 38000, 'industry': 0, 'market_segment': 0, 'territory': 0, 'fax': 0, 'city': 0, 'state': 0, 'country': 'Saudi Arabia', 'qualification_status': 'Unqualified', 'qualified_by': 0, 'qualified_on': 0, 'campaign_name': 0, 'company': 'ARMS For InformationTechnology (Demo)', 'language': 'en', 'image': 0, 'title': 'Al Ashoury Industry Group', 'disabled': 0, 'unsubscribed': 0, 'blog_subscriber': 0, '_user_tags': 0, '_comments': 0, '_assign': '["rabukhater@armsit.com"]', '_liked_by': 0, 'custom_audit': 30000, 'custom_z___t': 8000, 'custom_vat': 0, 'custom_off_plan_sales': 0, 'custom_z_cases': 0, 'custom_v_cases': 0, 'custom_zdp___sp': 0, 'custom_vdp_sp': 0, 'custom_lc': 0, 'custom_actuarial': 0, 'custom_ecl': 0, 'custom_bk': 0, 'custom_asp': 0, 'custom_group': 0, 'custom_director__manager': 0, 'custom_hunting': 'HK', 'custom_v_team': 'HK', 'custom_follow_up___month_': '2023-05-01', 'custom_status_2': 'Profile'}, {'name': 'CRM-LEAD-2024-00002', 'creation': '2024-02-14 17:41:41.366220', 'modified': '2024-02-14 18:35:02.258449', 'modified_by': 'rayoub@armsit.com', 'owner': 'rayoub@armsit.com', 'docstatus': 0, 'idx': 1, 'naming_series': 'CRM-LEAD-.YYYY.-', 'salutation': 0, 'first_name': 'Nahaz Investment', 'middle_name': 0, 'last_name': 0, 'lead_name': 'Nahaz Investment', 'job_title': 0, 'gender': 0, 'source': 0, 'lead_owner': 'rayoub@armsit.com', 'status': 'Interested', 'customer': 0, 'type': 0, 'request_type': 0, 'email_id': 0, 'website': 0, 'mobile_no': 0, 'whatsapp_no': 0, 'phone': 0, 'phone_ext': 0, 'company_name': 0, 'no_of_employees': '1-10', 'annual_revenue': 38000, 'industry': 0, 'market_segment': 0, 'territory': 0, 'fax': 0, 'city': 0, 'state': 0, 'country': 'Saudi Arabia', 'qualification_status': 'Unqualified', 'qualified_by': 0, 'qualified_on': 0, 'campaign_name': 0, 'company': 'ARMS For InformationTechnology (Demo)', 'language': 'en', 'image': 0, 'title': 'Nahaz Investment', 'disabled': 0, 'unsubscribed': 0, 'blog_subscriber': 0, '_user_tags': 0, '_comments': 0, '_assign': None, '_liked_by': 0, 'custom_audit': 30000, 'custom_z___t': 8000, 'custom_vat': 0, 'custom_off_plan_sales': 0, 'custom_z_cases': 0, 'custom_v_cases': 0, 'custom_zdp___sp': 0, 'custom_vdp_sp': 0, 'custom_lc': 0, 'custom_actuarial': 0, 'custom_ecl': 0, 'custom_bk': 0, 'custom_asp': 0, 'custom_group': 0, 'custom_director__manager': 0, 'custom_hunting': 'HK', 'custom_v_team': 'HK', 'custom_follow_up___month_': '2023-05-01', 'custom_status_2': 'Prior year Transfare'}, {'name': 'CRM-LEAD-2024-00003', 'creation': '2024-02-14 17:42:14.541640', 'modified': '2024-02-14 18:34:43.942070', 'modified_by': 'rayoub@armsit.com', 'owner': 'rayoub@armsit.com', 'docstatus': 0, 'idx': 1, 'naming_series': 'CRM-LEAD-.YYYY.-', 'salutation': 0, 'first_name': 'National Water Woprks Co', 'middle_name': 0, 'last_name': 0, 'lead_name': 'National Water Woprks Co', 'job_title': 0, 'gender': 0, 'source': 0, 'lead_owner': 'rayoub@armsit.com', 'status': 'Lost Quotation', 'customer': 0, 'type': 0, 'request_type': 0, 'email_id': 0, 'website': 0, 'mobile_no': 0, 'whatsapp_no': 0, 'phone': 0, 'phone_ext': 0, 'company_name': 0, 'no_of_employees': '1-10', 'annual_revenue': 33000, 'industry': 0, 'market_segment': 0, 'territory': 0, 'fax': 0, 'city': 0, 'state': 0, 'country': 'Saudi Arabia', 'qualification_status': 'Unqualified', 'qualified_by': 0, 'qualified_on': 0, 'campaign_name': 0, 'company': 'ARMS For InformationTechnology (Demo)', 'language': 'en', 'image': 0, 'title': 'National Water Woprks Co', 'disabled': 0, 'unsubscribed': 0, 'blog_subscriber': 0, '_user_tags': 0, '_comments': 0, '_assign': None, '_liked_by': 0, 'custom_audit': 25000, 'custom_z___t': 8000, 'custom_vat': 0, 'custom_off_plan_sales': 0, 'custom_z_cases': 0, 'custom_v_cases': 0, 'custom_zdp___sp': 0, 'custom_vdp_sp': 0, 'custom_lc': 0, 'custom_actuarial': 0, 'custom_ecl': 0, 'custom_bk': 0, 'custom_asp': 0, 'custom_group': 0, 'custom_director__manager': 0, 'custom_hunting': 'HK', 'custom_v_team': 'HK+MS', 'custom_follow_up___month_': '2023-05-01', 'custom_status_2': 'Won'}, {'name': 'CRM-LEAD-2024-00004', 'creation': '2024-02-14 17:43:07.869912', 'modified': '2024-02-14 18:35:07.707636', 'modified_by': 'rayoub@armsit.com', 'owner': 'rayoub@armsit.com', 'docstatus': 0, 'idx': 1, 'naming_series': 'CRM-LEAD-.YYYY.-', 'salutation': 0, 'first_name': 'Gas Solutions', 'middle_name': 0, 'last_name': 0, 'lead_name': 'Gas Solutions', 'job_title': 0, 'gender': 0, 'source': 0, 'lead_owner': 'rayoub@armsit.com', 'status': 'Quotation', 'customer': 0, 'type': 0, 'request_type': 0, 'email_id': 0, 'website': 0, 'mobile_no': 0, 'whatsapp_no': 0, 'phone': 0, 'phone_ext': 0, 'company_name': 0, 'no_of_employees': '1-10', 'annual_revenue': 38000, 'industry': 0, 'market_segment': 0, 'territory': 0, 'fax': 0, 'city': 0, 'state': 0, 'country': 'Saudi Arabia', 'qualification_status': 'Unqualified', 'qualified_by': 0, 'qualified_on': 0, 'campaign_name': 0, 'company': 'ARMS For InformationTechnology (Demo)', 'language': 'en', 'image': 0, 'title': 'Gas Solutions', 'disabled': 0, 'unsubscribed': 0, 'blog_subscriber': 0, '_user_tags': 0, '_comments': 0, '_assign': None, '_liked_by': 0, 'custom_audit': 30000, 'custom_z___t': 8000, 'custom_vat': 0, 'custom_off_plan_sales': 0, 'custom_z_cases': 0, 'custom_v_cases': 0, 'custom_zdp___sp': 0, 'custom_vdp_sp': 0, 'custom_lc': 0, 'custom_actuarial': 0, 'custom_ecl': 0, 'custom_bk': 0, 'custom_asp': 0, 'custom_group': 0, 'custom_director__manager': 0, 'custom_hunting': 'HK', 'custom_v_team': 'HK', 'custom_follow_up___month_': '2023-06-01', 'custom_status_2': 'Won'}, {'name': 'CRM-LEAD-2024-00005', 'creation': '2024-02-14 17:44:03.206627', 'modified': '2024-02-14 17:44:03.206627', 'modified_by': 'rayoub@armsit.com', 'owner': 'rayoub@armsit.com', 'docstatus': 0, 'idx': 1, 'naming_series': 'CRM-LEAD-.YYYY.-', 'salutation': 0, 'first_name': 'شركة الخليج للتطوير الصناعي', 'middle_name': 0, 'last_name': 0, 'lead_name': 'شركة الخليج للتطوير الصناعي', 'job_title': 0, 'gender': 0, 'source': 0, 'lead_owner': 'rayoub@armsit.com', 'status': 'Lead', 'customer': 0, 'type': 0, 'request_type': 0, 'email_id': 0, 'website': 0, 'mobile_no': 0, 'whatsapp_no': 0, 'phone': 0, 'phone_ext': 0, 'company_name': 0, 'no_of_employees': '1-10', 'annual_revenue': 30000, 'industry': 0, 'market_segment': 0, 'territory': 0, 'fax': 0, 'city': 0, 'state': 0, 'country': 'Saudi Arabia', 'qualification_status': 'Unqualified', 'qualified_by': 0, 'qualified_on': 0, 'campaign_name': 0, 'company': 'ARMS For InformationTechnology (Demo)', 'language': 'en', 'image': 0, 'title': 'شركة الخليج للتطوير الصناعي', 'disabled': 0, 'unsubscribed': 0, 'blog_subscriber': 0, '_user_tags': 0, '_comments': 0, '_assign': None, '_liked_by': 0, 'custom_audit': 30000, 'custom_z___t': 0, 'custom_vat': 0, 'custom_off_plan_sales': 0, 'custom_z_cases': 0, 'custom_v_cases': 0, 'custom_zdp___sp': 0, 'custom_vdp_sp': 0, 'custom_lc': 0, 'custom_actuarial': 0, 'custom_ecl': 0, 'custom_bk': 0, 'custom_asp': 0, 'custom_group': 2022, 'custom_director__manager': 0, 'custom_hunting': 'HK', 'custom_v_team': 'HK', 'custom_follow_up___month_': '2023-06-01', 'custom_status_2': 'Profile'}, {'name': 'CRM-LEAD-2024-00006', 'creation': '2024-02-14 17:44:23.958349', 'modified': '2024-02-14 18:35:17.204051', 'modified_by': 'rayoub@armsit.com', 'owner': 'rayoub@armsit.com', 'docstatus': 0, 'idx': 1, 'naming_series': 'CRM-LEAD-.YYYY.-', 'salutation': 0, 'first_name': 'شركة مصنع  حياه لإنتاج شراب الفاكهة والمياه المعبأة المحدودة', 'middle_name': 0, 'last_name': 0, 'lead_name': 'شركة مصنع  حياه لإنتاج شراب الفاكهة والمياه المعبأة المحدودة', 'job_title': 0, 'gender': 0, 'source': 0, 'lead_owner': 'rayoub@armsit.com', 'status': 'Opportunity', 'customer': 0, 'type': 0, 'request_type': 0, 'email_id': 0, 'website': 0, 'mobile_no': 0, 'whatsapp_no': 0, 'phone': 0, 'phone_ext': 0, 'company_name': 0, 'no_of_employees': '1-10', 'annual_revenue': 30000, 'industry': 0, 'market_segment': 0, 'territory': 0, 'fax': 0, 'city': 0, 'state': 0, 'country': 'Saudi Arabia', 'qualification_status': 'Unqualified', 'qualified_by': 0, 'qualified_on': 0, 'campaign_name': 0, 'company': 'ARMS For InformationTechnology (Demo)', 'language': 'en', 'image': 0, 'title': 'شركة مصنع  حياه لإنتاج شراب الفاكهة والمياه المعبأة المحدودة', 'disabled': 0, 'unsubscribed': 0, 'blog_subscriber': 0, '_user_tags': 0, '_comments': 0, '_assign': None, '_liked_by': 0, 'custom_audit': 30000, 'custom_z___t': 0, 'custom_vat': 0, 'custom_off_plan_sales': 0, 'custom_z_cases': 0, 'custom_v_cases': 0, 'custom_zdp___sp': 0, 'custom_vdp_sp': 0, 'custom_lc': 0, 'custom_actuarial': 0, 'custom_ecl': 0, 'custom_bk': 0, 'custom_asp': 0, 'custom_group': 2022, 'custom_director__manager': 0, 'custom_hunting': 'HK', 'custom_v_team': 'HK', 'custom_follow_up___month_': '2023-06-01', 'custom_status_2': 'Lost-Fitt'}, {'name': 'CRM-LEAD-2024-00007', 'creation': '2024-02-14 17:44:53.497059', 'modified': '2024-02-14 17:44:53.497059', 'modified_by': 'rayoub@armsit.com', 'owner': 'rayoub@armsit.com', 'docstatus': 0, 'idx': 1, 'naming_series': 'CRM-LEAD-.YYYY.-', 'salutation': 0, 'first_name': 'شركة مصنع الزلفي لأسلاك اللحام المحدودة', 'middle_name': 0, 'last_name': 0, 'lead_name': 'شركة مصنع الزلفي لأسلاك اللحام المحدودة', 'job_title': 0, 'gender': 0, 'source': 0, 'lead_owner': 'rayoub@armsit.com', 'status': 'Lead', 'customer': 0, 'type': 0, 'request_type': 0, 'email_id': 0, 'website': 0, 'mobile_no': 0, 'whatsapp_no': 0, 'phone': 0, 'phone_ext': 0, 'company_name': 0, 'no_of_employees': '1-10', 'annual_revenue': 25000, 'industry': 0, 'market_segment': 0, 'territory': 0, 'fax': 0, 'city': 0, 'state': 0, 'country': 'Saudi Arabia', 'qualification_status': 'Unqualified', 'qualified_by': 0, 'qualified_on': 0, 'campaign_name': 0, 'company': 'ARMS For InformationTechnology (Demo)', 'language': 'en', 'image': 0, 'title': 'شركة مصنع الزلفي لأسلاك اللحام المحدودة', 'disabled': 0, 'unsubscribed': 0, 'blog_subscriber': 0, '_user_tags': 0, '_comments': 0, '_assign': None, '_liked_by': 0, 'custom_audit': 25000, 'custom_z___t': 0, 'custom_vat': 0, 'custom_off_plan_sales': 0, 'custom_z_cases': 0, 'custom_v_cases': 0, 'custom_zdp___sp': 0, 'custom_vdp_sp': 0, 'custom_lc': 0, 'custom_actuarial': 0, 'custom_ecl': 0, 'custom_bk': 0, 'custom_asp': 0, 'custom_group': 2022, 'custom_director__manager': 0, 'custom_hunting': 'HK', 'custom_v_team': 'HK', 'custom_follow_up___month_': '2023-06-01', 'custom_status_2': 'Profile'}, {'name': 'CRM-LEAD-2024-00008', 'creation': '2024-02-14 17:45:50.642358', 'modified': '2024-02-14 17:53:45.511855', 'modified_by': 'rayoub@armsit.com', 'owner': 'rayoub@armsit.com', 'docstatus': 0, 'idx': 1, 'naming_series': 'CRM-LEAD-.YYYY.-', 'salutation': 0, 'first_name': 'Jarir Group of Companies', 'middle_name': 0, 'last_name': 0, 'lead_name': 'Jarir Group of Companies', 'job_title': 0, 'gender': 0, 'source': 0, 'lead_owner': 'rayoub@armsit.com', 'status': 'Replied', 'customer': 0, 'type': 0, 'request_type': 0, 'email_id': 0, 'website': 0, 'mobile_no': 0, 'whatsapp_no': 0, 'phone': 0, 'phone_ext': 0, 'company_name': 0, 'no_of_employees': '1-10', 'annual_revenue': 1061000, 'industry': 0, 'market_segment': 0, 'territory': 0, 'fax': 0, 'city': 0, 'state': 0, 'country': 'Saudi Arabia', 'qualification_status': 'Unqualified', 'qualified_by': 0, 'qualified_on': 0, 'campaign_name': 0, 'company': 'ARMS For InformationTechnology (Demo)', 'language': 'en', 'image': 0, 'title': 'Jarir Group of Companies', 'disabled': 0, 'unsubscribed': 0, 'blog_subscriber': 0, '_user_tags': 0, '_comments': 0, '_assign': None, '_liked_by': 0, 'custom_audit': 851000, 'custom_z___t': 210000, 'custom_vat': 0, 'custom_off_plan_sales': 0, 'custom_z_cases': 0, 'custom_v_cases': 0, 'custom_zdp___sp': 0, 'custom_vdp_sp': 0, 'custom_lc': 0, 'custom_actuarial': 0, 'custom_ecl': 0, 'custom_bk': 0, 'custom_asp': 0, 'custom_group': 0, 'custom_director__manager': 0, 'custom_hunting': 'ON', 'custom_v_team': 'ON+HK', 'custom_follow_up___month_': '2023-06-01', 'custom_status_2': 'Profile'}], 'indexes': ['custom_audit'], 'columns': ['custom_status_2'], 'values': ['custom_audit'], 'cmd': 'insights.api.queries.pivot'}
+2024-02-15 00:16:27,610 ERROR frappe New Exception collected in error log
+Site: 360.armsit.com
+Form Dict: {'data': [{'Status': 'Lost-Fitt', 'Audit': 30000, 'Z & T': 0, 'Z Cases': 0, 'Zdp   Sp': 0, 'V Cases': 0, 'VAT': 0}, {'Status': 'Prior year Transfare', 'Audit': 30000, 'Z & T': 8000, 'Z Cases': 0, 'Zdp   Sp': 0, 'V Cases': 0, 'VAT': 0}, {'Status': 'Profile', 'Audit': 30000, 'Z & T': 8000, 'Z Cases': 0, 'Zdp   Sp': 0, 'V Cases': 0, 'VAT': 0}, {'Status': 'Won', 'Audit': 25000, 'Z & T': 8000, 'Z Cases': 0, 'Zdp   Sp': 0, 'V Cases': 0, 'VAT': 0}], 'indexes': [], 'columns': ['custom_status_2'], 'values': ['custom_audit', 'custom_z___t', 'custom_z_cases', 'custom_vat', 'custom_off_plan_sales', 'custom_v_cases', 'custom_zdp___sp', 'custom_vdp_sp'], 'cmd': 'insights.api.queries.pivot'}
+2024-02-15 00:16:33,425 ERROR frappe New Exception collected in error log
+Site: 360.armsit.com
+Form Dict: {'data': [{'Status': 'Lost-Fitt', 'Audit': 30000, 'Z & T': 0, 'Z Cases': 0, 'Zdp   Sp': 0, 'V Cases': 0, 'VAT': 0}, {'Status': 'Prior year Transfare', 'Audit': 30000, 'Z & T': 8000, 'Z Cases': 0, 'Zdp   Sp': 0, 'V Cases': 0, 'VAT': 0}, {'Status': 'Profile', 'Audit': 30000, 'Z & T': 8000, 'Z Cases': 0, 'Zdp   Sp': 0, 'V Cases': 0, 'VAT': 0}, {'Status': 'Won', 'Audit': 25000, 'Z & T': 8000, 'Z Cases': 0, 'Zdp   Sp': 0, 'V Cases': 0, 'VAT': 0}], 'indexes': [], 'columns': [], 'values': ['custom_audit', 'custom_z___t', 'custom_z_cases', 'custom_vat', 'custom_off_plan_sales', 'custom_v_cases', 'custom_zdp___sp', 'custom_vdp_sp'], 'cmd': 'insights.api.queries.pivot'}
+2024-02-15 00:16:36,018 ERROR frappe New Exception collected in error log
+Site: 360.armsit.com
+Form Dict: {'data': [{'Status': 'Lost-Fitt', 'Audit': 30000, 'Z & T': 0, 'Z Cases': 0, 'Zdp   Sp': 0, 'V Cases': 0, 'VAT': 0}, {'Status': 'Prior year Transfare', 'Audit': 30000, 'Z & T': 8000, 'Z Cases': 0, 'Zdp   Sp': 0, 'V Cases': 0, 'VAT': 0}, {'Status': 'Profile', 'Audit': 30000, 'Z & T': 8000, 'Z Cases': 0, 'Zdp   Sp': 0, 'V Cases': 0, 'VAT': 0}, {'Status': 'Won', 'Audit': 25000, 'Z & T': 8000, 'Z Cases': 0, 'Zdp   Sp': 0, 'V Cases': 0, 'VAT': 0}], 'indexes': [], 'columns': ['Status'], 'values': ['custom_audit', 'custom_z___t', 'custom_z_cases', 'custom_vat', 'custom_off_plan_sales', 'custom_v_cases', 'custom_zdp___sp', 'custom_vdp_sp'], 'cmd': 'insights.api.queries.pivot'}
+2024-02-15 00:46:50,311 ERROR frappe New Exception collected in error log
+Site: 360.armsit.com
+Form Dict: {'chart_name': 'Pipeline Summary', 'filters': '[["Opportunity","status","=","Converted",false],["Opportunity","company","=","ARMS For InformationTechnology (Demo)",false]]', 'refresh': '1', 'time_interval': '', 'timespan': '', 'from_date': '', 'to_date': '', 'heatmap_year': '', 'cmd': 'frappe.desk.doctype.dashboard_chart.dashboard_chart.get'}
+2024-02-20 18:30:14,043 ERROR frappe New Exception collected in error log
+Site: 360.armsit.com
+Form Dict: {'cmd': 'drive.api.files.get_home_folder_id'}
+2024-02-20 18:31:10,052 ERROR frappe Error while inserting deferred Error Log record: Error Log 41b4bce9c9: 'Title' (Module import failed for Drive Entity, the DocType you're trying to open might be deleted.<br> Error: No module named 'frappe.core.doctype.drive_entity') will get truncated, as max characters allowed is 140
+Site: 360.armsit.com
+Form Dict: {}
+2024-02-28 19:23:52,407 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-02-28 19:23:52,411 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-02-28 19:23:52,412 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-02-28 19:23:52,412 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-02-28 19:23:52,412 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-02-28 19:23:52,412 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-02-28 19:23:52,413 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-02-28 19:23:52,413 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-02-28 19:23:52,413 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-02-28 19:23:52,413 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-02-28 19:23:52,413 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-03-06 19:51:41,699 ERROR frappe New Exception collected in error log
+Site: 360.armsit.com
+Form Dict: {'cmd': 'drive.api.files.get_home_folder_id'}
+2024-03-06 20:00:07,518 ERROR frappe Error while inserting deferred Error Log record: Error Log a2b2151168: 'Title' (Module import failed for Drive Entity, the DocType you're trying to open might be deleted.<br> Error: No module named 'frappe.core.doctype.drive_entity') will get truncated, as max characters allowed is 140
+Site: 360.armsit.com
+Form Dict: {}
+2024-03-07 17:47:52,839 ERROR frappe New Exception collected in error log
+Site: 360.armsit.com
+Form Dict: {'cmd': 'drive.api.files.get_home_folder_id'}
+2024-03-07 18:00:12,385 ERROR frappe Error while inserting deferred Error Log record: Error Log 404b46bf1b: 'Title' (Module import failed for Drive Entity, the DocType you're trying to open might be deleted.<br> Error: No module named 'frappe.core.doctype.drive_entity') will get truncated, as max characters allowed is 140
+Site: 360.armsit.com
+Form Dict: {}
+2024-03-07 18:31:36,405 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:31:36,407 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:31:36,407 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:31:36,407 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:31:36,407 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:31:36,408 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:31:36,408 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:31:36,408 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:31:36,408 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:31:36,408 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:31:36,408 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:33:23,538 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:33:23,539 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:33:23,539 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:33:23,539 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:33:23,539 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:33:23,540 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:33:23,540 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:33:23,540 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:33:23,540 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:33:23,540 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:33:23,540 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:36:58,378 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:36:58,379 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:36:58,379 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:36:58,380 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:36:58,380 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:36:58,380 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:36:58,380 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:36:58,380 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:36:58,380 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:36:58,380 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:36:58,380 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:39:15,019 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:39:15,020 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:39:15,020 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:39:15,020 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:39:15,020 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:39:15,021 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:39:15,021 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:39:15,021 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:39:15,021 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:39:15,021 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-03-07 18:39:15,021 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/srv/bench/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/srv/bench/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
